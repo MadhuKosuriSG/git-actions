@@ -1,19 +1,22 @@
-name: Python Application
+name: Run Ruby script
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
-  build:
+  run-ruby-script:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
       with:
-        python-version: '3.9' # Update to an available version
+        ruby-version: 2.7.2 # Specify the Ruby version you want to use
 
-    - name: Run Python script
-      run: python -v # Replace with your script name
+    - name: Run Ruby script
+      run: |
+        ruby -v # Check Ruby version
+        ruby script.rb # Replace 'script.rb' with your Ruby script
