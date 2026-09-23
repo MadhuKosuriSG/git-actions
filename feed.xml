@@ -1,10 +1,57 @@
-My GitHub Feed
-    Updates and announcements from my repository
-    https://madhukosurisg.github.io/git-actions/
-    en-us
+<?xml version="1.0" encoding="UTF-8"?>
 
-    
-      My First Post
-      This is the summary of my first update.
-      https://madhukosurisg.github.io/git-actions/
-      Tue, 22 Sep 2026 12:00:00 GMT
+<rss version="2.0">
+  <channel>
+    <title>Wikipedia News Feed</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Latest articles from Wikipedia</description>
+
+    <language>en-us</language>
+    <generator>Custom RSS Generator</generator>
+    <lastBuildDate>Wed, 23 Sep 2026 10:00:00 GMT</lastBuildDate>
+    <ttl>60</ttl>
+
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>
+        Artificial intelligence is intelligence demonstrated by machines.
+      </description>
+      <guid isPermaLink="true">
+        https://en.wikipedia.org/wiki/Artificial_intelligence
+      </guid>
+      <pubDate>Wed, 23 Sep 2026 09:00:00 GMT</pubDate>
+      <author>wikipedia@example.com</author>
+      <category>Technology</category>
+    </item>
+
+    <item>
+      <title>Ruby on Rails</title>
+      <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
+      <description>
+        Ruby on Rails is a server-side web application framework.
+      </description>
+      <guid isPermaLink="true">
+        https://en.wikipedia.org/wiki/Ruby_on_Rails
+      </guid>
+      <pubDate>Tue, 22 Sep 2026 15:30:00 GMT</pubDate>
+      <author>wikipedia@example.com</author>
+      <category>Programming</category>
+    </item>
+
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://en.wikipedia.org/wiki/PostgreSQL</link>
+      <description>
+        PostgreSQL is a free and open-source relational database system.
+      </description>
+      <guid isPermaLink="true">
+        https://en.wikipedia.org/wiki/PostgreSQL
+      </guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+      <author>wikipedia@example.com</author>
+      <category>Database</category>
+    </item>
+
+  </channel>
+</rss>
