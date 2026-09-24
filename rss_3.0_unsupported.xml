@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<rss version="3.0">
+  <channel>
+    <title>Wikipedia Feed</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Wikipedia articles</description>
+  </channel>
+</rss>
