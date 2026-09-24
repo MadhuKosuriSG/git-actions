@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -7,9 +6,7 @@
   <channel>
     <title>Wikipedia Technology Articles</title>
     <link>https://en.wikipedia.org/</link>
-    <description>
-      Sample RSS 0.90 feed containing Wikipedia technology articles.
-    </description>
+    <description>Sample RSS 0.90 feed containing Wikipedia technology articles.</description>
   </channel>
 
   <item>
