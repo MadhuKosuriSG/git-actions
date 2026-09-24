@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wikipedia Articles - Duplicate Items Test</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Valid RSS 2.0 feed containing duplicate items with the exact same URL.</description>
+    <item>
+      <title>Ruby on Rails - First Entry</title>
+      <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
+      <description>Ruby on Rails first description.</description>
+      <guid isPermaLink="false">rails-entry-1</guid>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ruby on Rails - Second Entry</title>
+      <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
+      <description>Ruby on Rails second description with the same URL.</description>
+      <guid isPermaLink="false">rails-entry-2</guid>
+      <pubDate>Thu, 24 Sep 2026 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

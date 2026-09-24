@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>First Root Channel</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>First root</description>
+  </channel>
+</rss>
+<rss version="2.0">
+  <channel>
+    <title>Second Root Channel</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Second root</description>
+  </channel>
+</rss>

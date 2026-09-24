@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wikipedia & Technology</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Articles containing raw unescaped ampersands.</description>
+    <item>
+      <title>Artificial Intelligence & Robotics</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>Demonstrating XML parser failure due to raw & character.</description>
+    </item>
+  </channel>
+</rss>

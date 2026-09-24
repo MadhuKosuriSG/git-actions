@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="https://www.wikipedia.org/feed">
+    <title>Wikipedia Articles - RSS 1.0</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 1.0 (RDF) format.</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://en.wikipedia.org/wiki/Artificial_intelligence"/>
+        <rdf:li rdf:resource="https://en.wikipedia.org/wiki/Ruby_on_Rails"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://en.wikipedia.org/wiki/Artificial_intelligence">
+    <title>Artificial Intelligence</title>
+    <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+    <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+  </item>
+  <item rdf:about="https://en.wikipedia.org/wiki/Ruby_on_Rails">
+    <title>Ruby on Rails</title>
+    <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
+    <description>Ruby on Rails is a server-side web application framework written in Ruby.</description>
+  </item>
+</rdf:RDF>

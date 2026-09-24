@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.94">
+  <channel>
+    <title>Wikipedia Empty Feed - RSS 0.94</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>An empty RSS 0.94 feed with zero items.</description>
+    <language>en-us</language>
+  </channel>
+</rss>

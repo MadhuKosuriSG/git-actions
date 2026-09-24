@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wikipedia Articles - Title and Link Only</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Testing RSS items with only title and link, omitting description.</description>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+    </item>
+    <item>
+      <title>Ruby on Rails</title>
+      <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
+    </item>
+  </channel>
+</rss>

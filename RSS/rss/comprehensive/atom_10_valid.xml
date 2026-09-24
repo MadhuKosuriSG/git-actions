@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Wikipedia Featured Articles - Atom 1.0</title>
+  <id>https://www.wikipedia.org/atom</id>
+  <link href="https://www.wikipedia.org/" rel="alternate"/>
+  <updated>2026-09-24T12:00:00Z</updated>
+
+  <entry>
+    <title>Artificial Intelligence</title>
+    <id>https://en.wikipedia.org/wiki/Artificial_intelligence</id>
+    <link href="https://en.wikipedia.org/wiki/Artificial_intelligence" rel="alternate"/>
+    <updated>2026-09-24T05:30:00Z</updated>
+    <summary>Artificial intelligence is intelligence demonstrated by machines, as opposed to intelligence displayed by animals including humans.</summary>
+    <category term="Technology"/>
+    <category term="Artificial Intelligence"/>
+    <category term="Computer Science"/>
+    <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Honolulu_Museum_of_Art_5076.1.JPG/320px-Honolulu_Museum_of_Art_5076.1.JPG" width="320" height="180"/>
+  </entry>
+
+  <entry>
+    <title>Ruby on Rails</title>
+    <id>https://en.wikipedia.org/wiki/Ruby_on_Rails</id>
+    <link href="https://en.wikipedia.org/wiki/Ruby_on_Rails" rel="alternate"/>
+    <updated>2026-09-24T06:00:00Z</updated>
+    <summary>Ruby on Rails is a server-side web application framework written in Ruby under the MIT License.</summary>
+    <category term="Software Engineering"/>
+    <category term="Web Development"/>
+    <category term="Open Source Software"/>
+    <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ruby_on_Rails_logo.svg/320px-Ruby_on_Rails_logo.svg.png" width="320" height="180"/>
+  </entry>
+</feed>

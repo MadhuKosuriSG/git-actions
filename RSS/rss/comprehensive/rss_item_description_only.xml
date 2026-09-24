@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wikipedia Articles - Description Only</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Testing RSS items with only description and link, omitting title.</description>
+    <item>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+    </item>
+    <item>
+      <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
+      <description>Ruby on Rails is a server-side web application framework.</description>
+    </item>
+  </channel>
+</rss>

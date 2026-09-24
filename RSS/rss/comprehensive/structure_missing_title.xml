@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <link>https://www.wikipedia.org/</link>
+    <description>RSS 2.0 channel missing mandatory title element.</description>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>Artificial intelligence article.</description>
+    </item>
+  </channel>
+</rss>

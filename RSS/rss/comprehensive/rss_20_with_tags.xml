@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wikipedia Articles - Multiple Categories/Tags</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>RSS 2.0 feed testing mapping of multiple category tags.</description>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Artificial_intelligence</guid>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
+      <category>Technology</category>
+      <category>Artificial Intelligence</category>
+      <category>Computer Science</category>
+    </item>
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://en.wikipedia.org/wiki/PostgreSQL</link>
+      <description>PostgreSQL is a free and open-source relational database management system emphasizing extensibility and SQL compliance.</description>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/PostgreSQL</guid>
+      <pubDate>Thu, 24 Sep 2026 11:00:00 GMT</pubDate>
+      <category>Database</category>
+      <category>Open Source Software</category>
+      <category>SQL</category>
+    </item>
+  </channel>
+</rss>

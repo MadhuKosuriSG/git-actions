@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.95">
+  <channel>
+    <title>Wikipedia Articles - RSS 0.95</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>RSS version 0.95 format test feed.</description>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+    </item>
+  </channel>
+</rss>

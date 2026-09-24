@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.92">
+  <channel>
+    <title>Test RSS 0.92 Feed</title>
+    <link>https://example.com</link>
+    <description>RSS 0.92 test feed</description>
+    <item>
+      <title>RSS 0.92 Item One</title>
+      <link>https://example.com/items/1</link>
+      <description>Description of item one</description>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <enclosure url="https://example.com/images/thumb.jpg" length="12345" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>RSS 0.92 Item Two</title>
+      <link>https://example.com/items/2</link>
+      <description>Description of item two</description>
+      <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+      <enclosure url="https://example.com/audio/clip.mp3" length="67890" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

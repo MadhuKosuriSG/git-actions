@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Wikipedia Articles - Comprehensive RSS 2.0 Feed</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>A comprehensive RSS 2.0 feed exercising titles, links, descriptions, dates, categories, enclosures, guids, and media thumbnails.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>Artificial intelligence is intelligence demonstrated by machines, as opposed to intelligence displayed by animals including humans.</description>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Artificial_intelligence</guid>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
+      <category>Technology</category>
+      <category>Artificial Intelligence</category>
+      <category>Computer Science</category>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Honolulu_Museum_of_Art_5076.1.JPG/320px-Honolulu_Museum_of_Art_5076.1.JPG" width="320" height="180"/>
+    </item>
+    <item>
+      <title>Ruby on Rails</title>
+      <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
+      <description>Ruby on Rails is a server-side web application framework written in Ruby under the MIT License.</description>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Ruby_on_Rails</guid>
+      <pubDate>Thu, 24 Sep 2026 10:00:00 GMT</pubDate>
+      <category>Software Engineering</category>
+      <category>Web Development</category>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ruby_on_Rails_logo.svg/320px-Ruby_on_Rails_logo.svg.png" length="12345" type="image/png"/>
+    </item>
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://en.wikipedia.org/wiki/PostgreSQL</link>
+      <description>PostgreSQL is a free and open-source relational database management system emphasizing extensibility and SQL compliance.</description>
+      <guid isPermaLink="false">wiki-postgres-item-3</guid>
+      <pubDate>Thu, 24 Sep 2026 11:00:00 GMT</pubDate>
+      <category>Database</category>
+      <category>Open Source Software</category>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Example.ogg" length="123456" type="audio/ogg"/>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/320px-Postgresql_elephant.svg.png" width="320" height="320"/>
+    </item>
+  </channel>
+</rss>

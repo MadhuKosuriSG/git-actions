@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wikipedia Empty Feed - Atom 1.0</title>
+  <id>https://www.wikipedia.org/atom/empty</id>
+  <link href="https://www.wikipedia.org/" rel="alternate"/>
+  <updated>2026-09-24T12:00:00Z</updated>
+</feed>

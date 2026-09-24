@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wikipedia Articles - Invalid Nesting</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Testing invalid XML tag nesting</description>
+    <item>
+      <title><link>https://en.wikipedia.org/wiki/Artificial_intelligence</title></link>
+      <description>Improperly nested tags.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <item>
+    <title>Artificial Intelligence</title>
+    <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+    <description>Article item placed directly under rss root without a channel element.</description>
+  </item>
+</rss>

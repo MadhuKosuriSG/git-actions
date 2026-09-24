@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://example.com/atom">
+  <title>Wikipedia Articles - Invalid Atom Namespace</title>
+  <id>https://www.wikipedia.org/atom/invalid</id>
+  <link href="https://www.wikipedia.org/"/>
+  <updated>2026-09-24T12:00:00Z</updated>
+  <entry>
+    <title>Artificial Intelligence</title>
+    <id>https://en.wikipedia.org/wiki/Artificial_intelligence</id>
+    <link href="https://en.wikipedia.org/wiki/Artificial_intelligence"/>
+    <updated>2026-09-24T05:30:00Z</updated>
+    <summary>Artificial intelligence article.</summary>
+  </entry>
+</feed>

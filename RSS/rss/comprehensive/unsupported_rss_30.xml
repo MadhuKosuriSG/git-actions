@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="3.0">
+  <channel>
+    <title>Wikipedia Articles - Unsupported RSS 3.0</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Hypothetical unsupported RSS version 3.0 feed.</description>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+    </item>
+  </channel>
+</rss>

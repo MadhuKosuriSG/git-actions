@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://my.netscape.com/rdf/simple/0.9/">
+  <channel>
+    <title>Wikipedia Featured Articles - RSS 0.90</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>A collection of notable Wikipedia articles in RSS 0.90 format.</description>
+  </channel>
+  <item>
+    <title>Artificial Intelligence</title>
+    <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+  </item>
+  <item>
+    <title>Ruby on Rails</title>
+    <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
+  </item>
+</rdf:RDF>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.93">
+  <channel>
+    <title>Wikipedia Articles - RSS 0.93</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 0.93 format.</description>
+    <language>en-us</language>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+      <category>Computer Science</category>
+    </item>
+    <item>
+      <title>Ruby on Rails</title>
+      <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
+      <description>Ruby on Rails is a server-side web application framework written in Ruby.</description>
+      <category>Web Development</category>
+    </item>
+  </channel>
+</rss>

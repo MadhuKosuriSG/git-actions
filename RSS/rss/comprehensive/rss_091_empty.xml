@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+  <channel>
+    <title>Wikipedia Empty Feed - RSS 0.91</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>An empty RSS 0.91 feed with zero items.</description>
+    <language>en-us</language>
+  </channel>
+</rss>
