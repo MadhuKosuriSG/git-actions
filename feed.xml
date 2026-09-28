@@ -6,7 +6,7 @@
     <description>Latest articles from Wikipedia</description>
     <language>en-us</language>
     <generator>Custom RSS Generator</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
 
     <item>
@@ -48,5 +48,16 @@
       <author>wikipedia@example.com</author>
       <category>Technology</category>
     </item>
+
+    <item>
+      <title>Docker</title>
+      <link>https://en.wikipedia.org/wiki/Docker_(software)</link>
+      <description>Docker is a platform for developing, shipping, and running applications using containers.</description>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Docker_(software)</guid>
+      <pubDate>Mon, 28 Sep 2026 11:00:00 GMT</pubDate>
+      <author>wikipedia@example.com</author>
+      <category>DevOps</category>
+    </item>
+
   </channel>
 </rss>
