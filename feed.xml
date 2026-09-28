@@ -1,62 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Wikipedia News Feed</title>
+    <title>Wikipedia Technology News - Updated</title>
     <link>https://www.wikipedia.org/</link>
-    <description>Latest articles from Wikipedia</description>
+    <description>Latest technology and programming articles from Wikipedia.</description>
     <language>en-us</language>
     <generator>Custom RSS Generator</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
 
     <item>
-      <title>Artificial Intelligence</title>
+      <title>Artificial Intelligence - Updated Guide</title>
       <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
-      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+      <description>Explore artificial intelligence, its applications, and recent developments.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Artificial_intelligence</guid>
       <pubDate>Wed, 23 Sep 2026 09:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
       <category>Technology</category>
+      <media:thumbnail
+        url="https://example.com/images/artificial-intelligence.jpg"
+        width="600"
+        height="400" />
     </item>
 
     <item>
-      <title>Ruby on Rails</title>
+      <title>Ruby on Rails - Updated Framework Overview</title>
       <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
-      <description>Ruby on Rails is a server-side web application framework.</description>
+      <description>An updated overview of Ruby on Rails and web application development.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Ruby_on_Rails</guid>
       <pubDate>Tue, 22 Sep 2026 15:30:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
       <category>Programming</category>
+      <media:thumbnail
+        url="https://example.com/images/ruby-on-rails.jpg"
+        width="600"
+        height="400" />
     </item>
 
     <item>
-      <title>PostgreSQL</title>
+      <title>PostgreSQL - Updated Database Guide</title>
       <link>https://en.wikipedia.org/wiki/PostgreSQL</link>
-      <description>PostgreSQL is a free and open-source relational database system.</description>
+      <description>Learn about PostgreSQL and its relational database features.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/PostgreSQL</guid>
       <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
       <category>Database</category>
+      <media:thumbnail
+        url="https://example.com/images/postgresql.jpg"
+        width="600"
+        height="400" />
     </item>
 
     <item>
-      <title>Machine Learning</title>
+      <title>Machine Learning - Updated Introduction</title>
       <link>https://en.wikipedia.org/wiki/Machine_learning</link>
-      <description>Machine learning is a field of artificial intelligence that enables computers to learn from data.</description>
+      <description>An updated introduction to machine learning and its applications.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Machine_learning</guid>
       <pubDate>Mon, 28 Sep 2026 10:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
       <category>Technology</category>
+      <media:thumbnail
+        url="https://example.com/images/machine-learning.jpg"
+        width="600"
+        height="400" />
     </item>
 
     <item>
-      <title>Docker</title>
+      <title>Docker - Updated Containerization Guide</title>
       <link>https://en.wikipedia.org/wiki/Docker_(software)</link>
-      <description>Docker is a platform for developing, shipping, and running applications using containers.</description>
+      <description>An updated guide to Docker and application containerization.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Docker_(software)</guid>
       <pubDate>Mon, 28 Sep 2026 11:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
       <category>DevOps</category>
+      <media:thumbnail
+        url="https://example.com/images/docker.jpg"
+        width="600"
+        height="400" />
     </item>
 
   </channel>
