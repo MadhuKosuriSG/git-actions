@@ -4,16 +4,16 @@
   <channel>
     <title>Wikipedia Technology News - Updated</title>
     <link>https://www.wikipedia.org/</link>
-    <description>Technology and programming articles.</description>
+    <description>Latest technology and programming articles from Wikipedia.</description>
     <language>en-us</language>
     <generator>Custom RSS Generator</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
 
     <item>
       <title>Artificial Intelligence - Updated Guide</title>
       <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
-      <description>Explore artificial intelligence and its applications.</description>
+      <description>Explore artificial intelligence, its applications, and recent developments.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Artificial_intelligence</guid>
       <pubDate>Wed, 23 Sep 2026 09:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
@@ -25,7 +25,7 @@
     <item>
       <title>Ruby on Rails - Updated Framework Overview</title>
       <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
-      <description>An updated overview of Ruby on Rails.</description>
+      <description>An updated overview of Ruby on Rails and web application development.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Ruby_on_Rails</guid>
       <pubDate>Tue, 22 Sep 2026 15:30:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
@@ -37,7 +37,7 @@
     <item>
       <title>PostgreSQL - Updated Database Guide</title>
       <link>https://en.wikipedia.org/wiki/PostgreSQL</link>
-      <description>Learn about PostgreSQL and its database features.</description>
+      <description>Learn about PostgreSQL and its relational database features.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/PostgreSQL</guid>
       <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
@@ -49,7 +49,7 @@
     <item>
       <title>Machine Learning - Updated Introduction</title>
       <link>https://en.wikipedia.org/wiki/Machine_learning</link>
-      <description>An introduction to machine learning and its applications.</description>
+      <description>An updated introduction to machine learning and its applications.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Machine_learning</guid>
       <pubDate>Mon, 28 Sep 2026 10:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
@@ -63,11 +63,11 @@
       <link>https://en.wikipedia.org/wiki/Docker_(software)</link>
       <description>An updated guide to Docker and application containerization.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Docker_(software)</guid>
-      <pubDate>Mon, 28 Sep 2026 11:00:00 GMT</pubDate>
+      <pubDate>Mon, 28 Sep 2026 13:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
       <category>DevOps</category>
       <media:thumbnail
-        url="https://commons.wikimedia.org/wiki/Special:Redirect/file/Docker_%28container_engine%29_logo.png" />
+        url="https://commons.wikimedia.org/wiki/Special:Redirect/file/Docker_Logo.png" />
     </item>
 
   </channel>
