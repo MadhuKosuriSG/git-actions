@@ -1,6 +1,4 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-
 <rss version="2.0">
   <channel>
     <title>Wikipedia News Feed</title>
@@ -14,9 +12,7 @@
     <item>
       <title>Artificial Intelligence</title>
       <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
-      <description>
-        Artificial intelligence is intelligence demonstrated by machines.
-      </description>
+      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Artificial_intelligence</guid>
       <pubDate>Wed, 23 Sep 2026 09:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
@@ -26,9 +22,7 @@
     <item>
       <title>Ruby on Rails</title>
       <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
-      <description>
-        Ruby on Rails is a server-side web application framework.
-      </description>
+      <description>Ruby on Rails is a server-side web application framework.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Ruby_on_Rails</guid>
       <pubDate>Tue, 22 Sep 2026 15:30:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
@@ -38,9 +32,7 @@
     <item>
       <title>PostgreSQL</title>
       <link>https://en.wikipedia.org/wiki/PostgreSQL</link>
-      <description>
-        PostgreSQL is a free and open-source relational database system.
-      </description>
+      <description>PostgreSQL is a free and open-source relational database system.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/PostgreSQL</guid>
       <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
@@ -50,15 +42,11 @@
     <item>
       <title>Machine Learning</title>
       <link>https://en.wikipedia.org/wiki/Machine_learning</link>
-      <description>
-        Machine learning is a field of artificial intelligence
-        that enables computers to learn from data.
-      </description>
+      <description>Machine learning is a field of artificial intelligence that enables computers to learn from data.</description>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Machine_learning</guid>
       <pubDate>Mon, 28 Sep 2026 10:00:00 GMT</pubDate>
       <author>wikipedia@example.com</author>
       <category>Technology</category>
     </item>
-
   </channel>
 </rss>
