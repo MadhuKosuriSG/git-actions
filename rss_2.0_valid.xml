@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>PathFactory Engineering Blog</title>
+    <link>https://pathfactory.com/blog</link>
+    <description>Engineering updates from PathFactory</description>
+    <language>en-US</language>
+    <atom:link href="https://pathfactory.com/blog/feed" rel="self" type="application/rss+ss+xml"/>
+
+    <!-- Item 1: thumbnail via media:thumbnail (extract_thumbnail priority 4) -->
+    <item>
+      <title>How We Scaled Our Content Recommendation Engine</title>
+      <link>https://pathfactory.com/blog/scaling-content-recommendation</link>
+      <guid isPermaLink="true">https://pathfactory.com/blog/scaling-content-recommendation</guid>
+      <dc:creator>Jane Smith</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 10:00:00 +0000</pubDate>
+      <description>A deep dive into how we redesigned our recommendation pipeline to handle 10x traffic.</description>
+      <category>Engineering</category>
+      <category>Performance</category>
+      <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2157531453.jpg" width="300" height="200"/>
+      <itunes:duration>00:12:34</itunes:duration>
+    </item>
+
+    <!-- Item 2: thumbnail via enclosure image/jpeg (extract_thumbnail priority 2) -->
+    <item>
+      <title>Introducing AI-Powered Content Scoring</title>
+      <link>https://pathfactory.com/blog/ai-content-scoring</link>
+      <guid isPermaLink="true">https://pathfactory.com/blog/ai-content-scoring</guid>
+      <dc:creator>John Doe</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 14:30:00 +0000</pubDate>
+      <description>Our new ML model scores content relevance in real time using buyer intent signals.</description>
+      <category>AI</category>
+      <category>Machine Learning</category>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2024/09/ai-scoring.jpg" type="image/jpeg" length="45000"/>
+      <itunes:duration>08:45</itunes:duration>
+    </item>
+
+    <!-- Item 3: thumbnail extracted from <img> inside content:encoded (extract_thumbnail priority 1) -->
+    <item>
+      <title>Baker Monolith: One Year In</title>
+      <link>https://pathfactory.com/blog/baker-one-year</link>
+      <guid isPermaLink="false">baker-one-year-2026</guid>
+      <dc:creator>Alice Chen</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 09:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[
+        <p>Lessons from running Baker in production for a full year.</p>
+        <img src="https://techcrunch.com/wp-content/uploads/2024/08/baker-anniversary.jpg" alt="Baker one year"/>
+      ]]></content:encoded>
+      <description>Lessons learned from running our Rails monolith at scale for a full year.</description>
+      <category>Infrastructure</category>
+      <itunes:duration>1245</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
