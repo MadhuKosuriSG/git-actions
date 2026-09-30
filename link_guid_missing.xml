@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Feed with Missing Identity</title>
+    <link>https://example.com</link>
+    <description>Feed for testing missing guid/id/link</description>
+    <item>
+      <title>Valid Article</title>
+      <link>https://example.com/valid</link>
+      <description>Valid item</description>
+    </item>
+    <item>
+      <title>Missing Identity Article</title>
+      <description>Missing guid and link</description>
+    </item>
+    <item>
+      <title>Another Missing Identity Article</title>
+      <description>Missing guid and link</description>
+    </item>
+  </channel>
+</rss>
