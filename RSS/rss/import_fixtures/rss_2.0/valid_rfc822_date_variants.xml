@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Wikipedia Articles - RSS 2.0</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 2.0 format.</description>
+    <language>en-us</language>
+    <item>
+      <title>Date 1</title>
+      <link>https://en.wikipedia.org/wiki/Date_1</link>
+      <description>Mon, 05 Jan 2026 09:00:00 +0530</description>
+      <category domain="https://en.wikipedia.org/wiki/Category:">Dates</category>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Date_1</guid>
+      <author>editors@wikipedia.org (Wikipedia Editors)</author>
+      <comments>https://en.wikipedia.org/wiki/Talk:Date_1</comments>
+    </item>
+    <item>
+      <title>Date 2</title>
+      <link>https://en.wikipedia.org/wiki/Date_2</link>
+      <description>Tue, 6 Jan 2026 10:30:00 EST</description>
+      <category domain="https://en.wikipedia.org/wiki/Category:">Dates</category>
+      <pubDate>Tue, 6 Jan 2026 10:30:00 EST</pubDate>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Date_2</guid>
+      <author>editors@wikipedia.org (Wikipedia Editors)</author>
+      <comments>https://en.wikipedia.org/wiki/Talk:Date_2</comments>
+    </item>
+    <item>
+      <title>Date 3</title>
+      <link>https://en.wikipedia.org/wiki/Date_3</link>
+      <description>07 Jan 2026 14:15 -0800</description>
+      <category domain="https://en.wikipedia.org/wiki/Category:">Dates</category>
+      <pubDate>07 Jan 2026 14:15 -0800</pubDate>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Date_3</guid>
+      <author>editors@wikipedia.org (Wikipedia Editors)</author>
+      <comments>https://en.wikipedia.org/wiki/Talk:Date_3</comments>
+    </item>
+    <item>
+      <title>Date 4</title>
+      <link>https://en.wikipedia.org/wiki/Date_4</link>
+      <description>Thu, 08 Jan 26 09:00:00 Z</description>
+      <category domain="https://en.wikipedia.org/wiki/Category:">Dates</category>
+      <pubDate>Thu, 08 Jan 26 09:00:00 Z</pubDate>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Date_4</guid>
+      <author>editors@wikipedia.org (Wikipedia Editors)</author>
+      <comments>https://en.wikipedia.org/wiki/Talk:Date_4</comments>
+    </item>
+    <item>
+      <title>Date 5</title>
+      <link>https://en.wikipedia.org/wiki/Date_5</link>
+      <description>Fri, 09 Jan 2026 09:00:00 UT</description>
+      <category domain="https://en.wikipedia.org/wiki/Category:">Dates</category>
+      <pubDate>Fri, 09 Jan 2026 09:00:00 UT</pubDate>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Date_5</guid>
+      <author>editors@wikipedia.org (Wikipedia Editors)</author>
+      <comments>https://en.wikipedia.org/wiki/Talk:Date_5</comments>
+    </item>
+  </channel>
+</rss>

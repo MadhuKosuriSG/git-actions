@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.93">
+  <channel>
+    <title>Wikipedia Articles - RSS 0.93</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 0.93 format.</description>
+    <language>en-us</language>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+      <category>Computer Science</category>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://upload.wikimedia.org/sample.mp3" length="-12abc" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

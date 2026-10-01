@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.92">
+  <channel>
+    <title>Wikipedia Articles - RSS 0.92</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 0.92 format.</description>
+    <language>en-us</language>
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://en.wikipedia.org/wiki/PostgreSQL</link>
+      <description>&lt;p&gt;An &lt;a href=&quot;https://www.postgresql.org&quot;&gt;open-source&lt;/a&gt; database.&lt;/p&gt;&lt;script&gt;alert(1)&lt;/script&gt;</description>
+      <category>Databases</category>
+    </item>
+  </channel>
+</rss>

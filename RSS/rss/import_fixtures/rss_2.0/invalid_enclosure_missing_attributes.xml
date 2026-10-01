@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Wikipedia Articles - RSS 2.0</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 2.0 format.</description>
+    <language>en-us</language>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+      <category domain="https://en.wikipedia.org/wiki/Category:">Computer Science</category>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Artificial_intelligence</guid>
+      <author>editors@wikipedia.org (Wikipedia Editors)</author>
+      <comments>https://en.wikipedia.org/wiki/Talk:Artificial_intelligence</comments>
+      <enclosure url="https://upload.wikimedia.org/sample.mp3"/>
+    </item>
+  </channel>
+</rss>

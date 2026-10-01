@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns="http://my.netscape.com/rdf/simple/0.9/">
+  <channel>
+    <title>Wikipedia Articles - RSS 0.90</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 0.90 format.</description>
+  </channel>
+  <image>
+    <title>Wikipedia</title>
+    <url>https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo.png</url>
+    <link>https://www.wikipedia.org/</link>
+  </image>
+  <item>
+    <title>Artificial Intelligence</title>
+    <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
+  </item>
+  <item>
+    <title>Ruby on Rails</title>
+    <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
+  </item>
+  <item>
+    <title>PostgreSQL</title>
+    <link>https://en.wikipedia.org/wiki/PostgreSQL</link>
+  </item>
+  <textinput>
+    <title>Search Wikipedia</title>
+    <description>Search Wikipedia articles</description>
+    <name>search</name>
+    <link>https://en.wikipedia.org/w/index.php</link>
+  </textinput>
+</rdf:RDF>

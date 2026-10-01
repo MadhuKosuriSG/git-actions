@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns="http://my.netscape.com/rdf/simple/0.9/">
+  <channel>
+    <title>Wikipedia Articles - RSS 0.90</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 0.90 format.</description>
+  </channel>
+  <item>
+    <title>C++ &amp; C# &lt;Languages&gt;</title>
+    <link>https://en.wikipedia.org/wiki/C%2B%2B</link>
+  </item>
+</rdf:RDF>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns="http://my.netscape.com/rdf/simple/0.9/">
+  <channel>
+    <title>Wikipedia Articles - RSS 0.90</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 0.90 format.</description>
+  </channel>
+  <item>
+    <title>Article 1</title>
+    <link>https://en.wikipedia.org/wiki/Article_1</link>
+  </item>
+  <item>
+    <title>Article 2</title>
+    <link>https://en.wikipedia.org/wiki/Article_2</link>
+  </item>
+  <item>
+    <title>Article 3</title>
+    <link>https://en.wikipedia.org/wiki/Article_3</link>
+  </item>
+  <item>
+    <title>Article 4</title>
+    <link>https://en.wikipedia.org/wiki/Article_4</link>
+  </item>
+  <item>
+    <title>Article 5</title>
+    <link>https://en.wikipedia.org/wiki/Article_5</link>
+  </item>
+  <item>
+    <title>Article 6</title>
+    <link>https://en.wikipedia.org/wiki/Article_6</link>
+  </item>
+  <item>
+    <title>Article 7</title>
+    <link>https://en.wikipedia.org/wiki/Article_7</link>
+  </item>
+  <item>
+    <title>Article 8</title>
+    <link>https://en.wikipedia.org/wiki/Article_8</link>
+  </item>
+  <item>
+    <title>Article 9</title>
+    <link>https://en.wikipedia.org/wiki/Article_9</link>
+  </item>
+  <item>
+    <title>Article 10</title>
+    <link>https://en.wikipedia.org/wiki/Article_10</link>
+  </item>
+  <item>
+    <title>Article 11</title>
+    <link>https://en.wikipedia.org/wiki/Article_11</link>
+  </item>
+  <item>
+    <title>Article 12</title>
+    <link>https://en.wikipedia.org/wiki/Article_12</link>
+  </item>
+  <item>
+    <title>Article 13</title>
+    <link>https://en.wikipedia.org/wiki/Article_13</link>
+  </item>
+  <item>
+    <title>Article 14</title>
+    <link>https://en.wikipedia.org/wiki/Article_14</link>
+  </item>
+  <item>
+    <title>Article 15</title>
+    <link>https://en.wikipedia.org/wiki/Article_15</link>
+  </item>
+  <item>
+    <title>Article 16</title>
+    <link>https://en.wikipedia.org/wiki/Article_16</link>
+  </item>
+  <item>
+    <title>Article 17</title>
+    <link>https://en.wikipedia.org/wiki/Article_17</link>
+  </item>
+  <item>
+    <title>Article 18</title>
+    <link>https://en.wikipedia.org/wiki/Article_18</link>
+  </item>
+  <item>
+    <title>Article 19</title>
+    <link>https://en.wikipedia.org/wiki/Article_19</link>
+  </item>
+  <item>
+    <title>Article 20</title>
+    <link>https://en.wikipedia.org/wiki/Article_20</link>
+  </item>
+</rdf:RDF>

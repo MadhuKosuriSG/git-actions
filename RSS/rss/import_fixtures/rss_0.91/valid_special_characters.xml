@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+  <channel>
+    <title>Wikipedia Articles - RSS 0.91</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 0.91 format.</description>
+    <language>en-us</language>
+    <item>
+      <title>C++ &amp; C# &lt;Languages&gt;</title>
+      <link>https://en.wikipedia.org/wiki/C%2B%2B</link>
+      <description>Quotes &quot;double&quot; &apos;single&apos; &#169; &#x2603; café 日本語 🚀</description>
+    </item>
+  </channel>
+</rss>

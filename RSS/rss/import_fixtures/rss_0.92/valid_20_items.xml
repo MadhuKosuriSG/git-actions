@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.92">
+  <channel>
+    <title>Wikipedia Articles - RSS 0.92</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 0.92 format.</description>
+    <language>en-us</language>
+    <item>
+      <title>Article 1</title>
+      <link>https://en.wikipedia.org/wiki/Article_1</link>
+      <description>Description for article 1.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 2</title>
+      <link>https://en.wikipedia.org/wiki/Article_2</link>
+      <description>Description for article 2.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 3</title>
+      <link>https://en.wikipedia.org/wiki/Article_3</link>
+      <description>Description for article 3.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 4</title>
+      <link>https://en.wikipedia.org/wiki/Article_4</link>
+      <description>Description for article 4.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 5</title>
+      <link>https://en.wikipedia.org/wiki/Article_5</link>
+      <description>Description for article 5.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 6</title>
+      <link>https://en.wikipedia.org/wiki/Article_6</link>
+      <description>Description for article 6.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 7</title>
+      <link>https://en.wikipedia.org/wiki/Article_7</link>
+      <description>Description for article 7.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 8</title>
+      <link>https://en.wikipedia.org/wiki/Article_8</link>
+      <description>Description for article 8.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 9</title>
+      <link>https://en.wikipedia.org/wiki/Article_9</link>
+      <description>Description for article 9.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 10</title>
+      <link>https://en.wikipedia.org/wiki/Article_10</link>
+      <description>Description for article 10.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 11</title>
+      <link>https://en.wikipedia.org/wiki/Article_11</link>
+      <description>Description for article 11.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 12</title>
+      <link>https://en.wikipedia.org/wiki/Article_12</link>
+      <description>Description for article 12.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 13</title>
+      <link>https://en.wikipedia.org/wiki/Article_13</link>
+      <description>Description for article 13.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 14</title>
+      <link>https://en.wikipedia.org/wiki/Article_14</link>
+      <description>Description for article 14.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 15</title>
+      <link>https://en.wikipedia.org/wiki/Article_15</link>
+      <description>Description for article 15.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 16</title>
+      <link>https://en.wikipedia.org/wiki/Article_16</link>
+      <description>Description for article 16.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 17</title>
+      <link>https://en.wikipedia.org/wiki/Article_17</link>
+      <description>Description for article 17.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 18</title>
+      <link>https://en.wikipedia.org/wiki/Article_18</link>
+      <description>Description for article 18.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 19</title>
+      <link>https://en.wikipedia.org/wiki/Article_19</link>
+      <description>Description for article 19.</description>
+      <category>General</category>
+    </item>
+    <item>
+      <title>Article 20</title>
+      <link>https://en.wikipedia.org/wiki/Article_20</link>
+      <description>Description for article 20.</description>
+      <category>General</category>
+    </item>
+  </channel>
+</rss>

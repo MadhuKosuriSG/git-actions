@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.92">
+  <channel>
+    <title>Wikipedia Articles - RSS 0.92</title>
+    <link>https://www.wikipedia.org/</link>
+    <description>Notable Wikipedia articles in RSS 0.92 format.</description>
+    <language>en-us</language>
+    <item>
+      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+      <category>Computer Science</category>
+    </item>
+  </channel>
+</rss>
