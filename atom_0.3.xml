@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#">
+  <title>TechPulse Weekly</title>
+  <link rel="alternate" type="text/html" href="https://techpulse.dev/"/>
+  <modified>2026-10-07T08:30:00Z</modified>
+  <author>
+    <name>Alex Chen</name>
+  </author>
+
+  <entry>
+    <title>Announcing Python 3.15 Performance Improvements</title>
+    <link rel="alternate" type="text/html" href="https://techpulse.dev/posts/python-3-15-performance"/>
+    <id>urn:uuid:7f8a9b2c-3d4e-5f6g-7h8i-9j0k1l2m3n4o</id>
+    <modified>2026-10-07T08:30:00Z</modified>
+    <summary>Explore the latest Just-In-Time (JIT) compiler optimizations and memory management updates in Python 3.15, delivering up to a 25% speedup in standard benchmark suites.</summary>
+  </entry>
+</feed>
