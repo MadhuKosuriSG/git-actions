@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed version="0.3" xmlns="http://purl.org/atom/ns#">
+<feed version="0.3" 
+      xmlns="http://purl.org/atom/ns#" 
+      xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  
   <title>TechPulse Weekly</title>
   <link rel="alternate" type="text/html" href="https://techpulse.dev/"/>
   <modified>2026-10-07T08:30:00Z</modified>
@@ -10,11 +14,31 @@
   <entry>
     <title>Announcing Python 3.15 Performance Improvements</title>
     <link rel="alternate" type="text/html" href="https://techpulse.dev/posts/python-3-15-performance"/>
+    
+    <!-- Atom Link Enclosure (caught by enhanced extract_thumbnail) -->
+    <link rel="enclosure" type="image/jpeg" href="https://techpulse.dev/images/link-enclosure.jpg"/>
+
+    <!-- Legacy Tag ID (caught by extract_id via local-name()='id') -->
     <id>tag:techpulse.dev,2026-10-07:post/python-3-15-performance</id>
-    <modified>2026-11-07T08:30:00Z</modified>
-    <summary>Explore the latest Just-In-Time (JIT) compiler optimizations and memory management updates in Python 3.15, delivering up to a 25% speedup in standard benchmark suites.</summary>
+    
+    <modified>2026-10-07T08:30:00Z</modified>
+    
+    <!-- Summary with HTML Image (caught by extract_img_from_html) -->
+    <summary>&lt;img src="https://techpulse.dev/images/html-embedded.png" alt="Thumb"/&gt; Explore the latest Just-In-Time compiler optimizations in Python 3.15.</summary>
+
+    <!-- Categories / Tags (caught by extract_tags) -->
     <category term="python"/>
     <category term="programming" label="Software Programming"/>
     <category>performance</category>
+
+    <!-- Media RSS Thumbnail (caught by *[local-name()='thumbnail']/@url) -->
+    <media:thumbnail url="https://techpulse.dev/images/python-3-15-thumb.jpg"/>
+
+    <!-- Media RSS Content -->
+    <media:content url="https://techpulse.dev/images/media-content.jpg" medium="image" type="image/jpeg"/>
+
+    <!-- iTunes Image -->
+    <itunes:image href="https://techpulse.dev/images/itunes-cover.jpg"/>
+
   </entry>
 </feed>
