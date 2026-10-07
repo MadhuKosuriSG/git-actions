@@ -11,7 +11,7 @@
     <title>Announcing Python 3.15 Performance Improvements</title>
     <link rel="alternate" type="text/html" href="https://techpulse.dev/posts/python-3-15-performance"/>
     <id>tag:techpulse.dev,2026-10-07:post/python-3-15-performance</id>
-    <modified>2026-10-07T08:30:00Z</modified>
+    <modified>2026-11-07T08:30:00Z</modified>
     <summary>Explore the latest Just-In-Time (JIT) compiler optimizations and memory management updates in Python 3.15, delivering up to a 25% speedup in standard benchmark suites.</summary>
     <category term="python"/>
     <category term="programming" label="Software Programming"/>
