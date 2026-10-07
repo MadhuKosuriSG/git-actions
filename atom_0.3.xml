@@ -38,7 +38,7 @@
     <media:content url="https://techpulse.dev/images/media-content.jpg" medium="image" type="image/jpeg"/>
 
     <!-- iTunes Image -->
-    <itunes:image href="https://techpulse.dev/images/itunes-cover.jpg"/>
+    <!-- <itunes:image href="https://techpulse.dev/images/itunes-cover.jpg"/> -->
 
   </entry>
 </feed>
