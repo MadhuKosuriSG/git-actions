@@ -18,5 +18,15 @@
       <author>editors@wikipedia.org (Wikipedia Editors)</author>
       <comments>https://en.wikipedia.org/wiki/Talk:Artificial_intelligence</comments>
     </item>
+    <item>
+      <title><![CDATA[Python & Django <Guide>]]></title>
+      <link>https://en.wikipedia.org/wiki/Django_(web_framework)</link>
+      <description><![CDATA[<p>Django follows the <b>MVT</b> pattern and includes batteries.</p>]]></description>
+      <category domain="https://en.wikipedia.org/wiki/Category:">Web Development</category>
+      <pubDate>Fri, 09 Jan 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Django_(web_framework)</guid>
+      <author>editors@wikipedia.org (Wikipedia Editors)</author>
+      <comments>https://en.wikipedia.org/wiki/Talk:Django_(web_framework)</comments>
+    </item>
   </channel>
 </rss>
