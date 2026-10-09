@@ -30,5 +30,15 @@
       <author>editors@wikipedia.org (Wikipedia Editors)</author>
       <comments>https://en.wikipedia.org/wiki/Talk:Article_2</comments>
     </item>
+    <item>
+      <title>Article Four</title>
+      <link>https://en.wikipedia.org/wiki/Article_3</link>
+      <description>Description for article Four.</description>
+      <category domain="https://en.wikipedia.org/wiki/Category:">General</category>
+      <pubDate>Thu, 03 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Article_3</guid>
+      <author>editors@wikipedia.org (Wikipedia Editors)</author>
+      <comments>https://en.wikipedia.org/wiki/Talk:Article_3</comments>
+    </item>
   </channel>
 </rss>
