@@ -11,11 +11,11 @@
     <description>Notable Wikipedia articles in RSS 2.0 format.</description>
     <language>en-us</language>
     <item>
-      <title><![CDATA[Ruby & Rails <Guide>]]></title>
+      <title><![CDATA[Ruby on Rails <Guide>]]></title>
       <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
       <description><![CDATA[<p>Rails uses <b>MVC</b> & conventions.</p>]]></description>
       <category domain="https://en.wikipedia.org/wiki/Category:">Web Development</category>
-      <pubDate>Fri, 09 Jan 2026 09:00:00 GMT</pubDate>
+      <pubDate>Fri, 10 Jan 2026 09:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Ruby_on_Rails</guid>
       <author>editors@wikipedia.org (Wikipedia Editors)</author>
       <comments>https://en.wikipedia.org/wiki/Talk:Ruby_on_Rails</comments>
