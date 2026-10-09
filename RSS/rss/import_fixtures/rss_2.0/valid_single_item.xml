@@ -13,9 +13,6 @@
     <item>
       <title>Testing One</title>
       <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
-      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
-      <category domain="https://en.wikipedia.org/wiki/Category:">Computer Science</category>
-      <comments>https://en.wikipedia.org/wiki/Talk:Artificial_intelligence</comments>
     </item>
     <item>
       <title>Testing Two</title>
