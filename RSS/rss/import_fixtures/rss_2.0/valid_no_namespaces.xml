@@ -6,14 +6,14 @@
     <description>Notable Wikipedia articles in RSS 2.0 format.</description>
     <language>en-us</language>
     <!-- <item>
-      <!-- <title>Computer Language One</title>
+       <title>Computer Language One</title>
       <link>https://en.wikipedia.org/wiki/Artificial_intelligence</link>
       <description>Test Language 1</description>
       <category domain="https://en.wikipedia.org/wiki/Category:">Computer Science</category>
       <pubDate>Mon, 05 Jan 2026 09:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/Artificial_intelligence</guid>
       <author>editors@wikipedia.org (Wikipedia Editors)</author>
-      <comments>https://en.wikipedia.org/wiki/Talk:Artificial_intelligence</comments> -->
+      <comments>https://en.wikipedia.org/wiki/Talk:Artificial_intelligence</comments>
     </item> -->
     <item>
       <title>Computer Language Two</title>
