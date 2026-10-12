@@ -30,5 +30,14 @@
   <author>tech.editors@wikipedia.org (Wikipedia Technology Contributors)</author>
   <comments>https://en.wikipedia.org/wiki/Talk:Machine_learning</comments>
   </item>
+    <item>
+  <title>CRISPR Gene Editing</title>
+  <description>CRISPR gene editing is a genetic engineering technique that uses the Cas9 enzyme and guide RNA to precisely cut and modify DNA sequences within living organisms.</description>
+  <category domain="https://en.wikipedia.org/wiki/Category:">Genetics</category>
+  <pubDate>Mon, 09 Mar 2026 11:45:00 GMT</pubDate>
+  <guid isPermaLink="true">https://en.wikipedia.org/wiki/CRISPR_gene_editing</guid>
+  <author>biology.editors@wikipedia.org (Wikipedia Biology Contributors)</author>
+  <comments>https://en.wikipedia.org/wiki/Talk:CRISPR_gene_editing</comments>
+</item>
   </channel>
 </rss>
