@@ -10,14 +10,23 @@
     <link>https://www.wikipedia.org/</link>
     <description>Notable Wikipedia articles in RSS 2.0 format.</description>
     <language>en-us</language>
+  <item>
+  <title>Quantum Computing</title>
+  <description>Quantum computing is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers.</description>
+  <category domain="https://en.wikipedia.org/wiki/Category:">Physics</category>
+  <pubDate>Wed, 14 Jan 2026 14:30:00 GMT</pubDate>
+  <guid isPermaLink="true">https://wikipedia.org</guid>
+  <author>science.editors@wikipedia.org (Wikipedia Science Contributors)</author>
+  <comments>https://wikipedia.org</comments>
+  </item>
     <item>
-      <title>Artificial Intelligence</title>
-      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
-      <category domain="https://en.wikipedia.org/wiki/Category:">Computer Science</category>
-      <pubDate>Mon, 05 Jan 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Artificial_intelligence</guid>
-      <author>editors@wikipedia.org (Wikipedia Editors)</author>
-      <comments>https://en.wikipedia.org/wiki/Talk:Artificial_intelligence</comments>
-    </item>
+  <title>Machine Learning</title>
+  <description>Machine learning is a field of artificial intelligence focused on algorithms that learn patterns from data and improve their performance on tasks without being explicitly programmed.</description>
+  <category domain="https://en.wikipedia.org/wiki/Category:">Computer Science</category>
+  <pubDate>Fri, 06 Feb 2026 09:15:00 GMT</pubDate>
+  <guid isPermaLink="true">https://en.wikipedia.org/wiki/Machine_learning</guid>
+  <author>tech.editors@wikipedia.org (Wikipedia Technology Contributors)</author>
+  <comments>https://en.wikipedia.org/wiki/Talk:Machine_learning</comments>
+  </item>
   </channel>
 </rss>
