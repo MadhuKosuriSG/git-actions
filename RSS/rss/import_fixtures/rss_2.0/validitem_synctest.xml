@@ -33,14 +33,24 @@
 </item>
 
 <item>
-  <title>Fusion Power</title>
+  <title>Fusion Power Fusion</title>
   <link>https://en.wikipedia.org/wiki/Fusion_power</link>
-  <description>Fusion power is a proposed form of energy generation that produces electricity from the heat released when light atomic nuclei, such as hydrogen isotopes, fuse together.</description>
+  <description>Fusion power produces electricity from the heat released when light atomic nuclei, such as hydrogen isotopes, fuse together.</description>
   <category domain="https://en.wikipedia.org/wiki/Category:">Energy</category>
-  <pubDate>Thu, 16 Apr 2026 16:20:00 GMT</pubDate>
+  <pubDate>Thu, 18 Apr 2026 16:20:00 GMT</pubDate>
   <guid isPermaLink="true">https://en.wikipedia.org/wiki/Fusion_power</guid>
   <author>energy.editors@wikipedia.org (Wikipedia Energy Contributors)</author>
   <comments>https://en.wikipedia.org/wiki/Talk:Fusion_power</comments>
+</item>
+    <item>
+  <title>Blockchain</title>
+  <link>https://en.wikipedia.org/wiki/Blockchain</link>
+  <description>A blockchain is a distributed ledger of records, called blocks, that are securely linked together using cryptographic hashes, making the stored data resistant to tampering.</description>
+  <category domain="https://en.wikipedia.org/wiki/Category:">Cryptography</category>
+  <pubDate>Tue, 12 May 2026 10:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://en.wikipedia.org/wiki/Blockchain</guid>
+  <author>tech.editors@wikipedia.org (Wikipedia Technology Contributors)</author>
+  <comments>https://en.wikipedia.org/wiki/Talk:Blockchain</comments>
 </item>
   </channel>
 </rss>
