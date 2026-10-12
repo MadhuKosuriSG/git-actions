@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0">
   <channel>
-    <title>Test RSS Feed</title>
-    <link>https://example.com</link>
-    <description>A test RSS feed for specs</description>
+    <title>Technology News</title>
+    <link>https://www.reuters.com/technology/</link>
+    <description>Technology, artificial intelligence and semiconductor news.</description>
+    <language>en</language>
+
     <item>
-      <title>First Article</title>
-      <link>https://example.com/articles/1</link>
-      <description>Description of the first article</description>
-      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
-      <category>Technology</category>
-      <enclosure url="https://example.com/images/thumb1.jpg" type="image/jpeg" length="12345"/>
+      <title>Microsoft Plans Huge Deployment of Its Own AI Chips</title>
+      <link>https://www.reuters.com/business/microsoft-plans-huge-deployment-of-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/</link>
+      <description>Microsoft unveiled its Maia 300 custom AI chip and plans extensive deployment in 2027 to improve computing efficiency and reduce infrastructure costs.</description>
+      <guid isPermaLink="false">urn:uuid:2d8a1b71-72ef-4ad7-a291-000000000001</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Artificial Intelligence</category>
+      <category>Semiconductors</category>
     </item>
+
     <item>
-      <title>Second Article</title>
-      <link>https://example.com/articles/2</link>
-      <description>Description of the second article</description>
-      <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+      <title>HCLTech Signs Partnership with Anthropic</title>
+      <link>https://www.reuters.com/world/india/indias-hcltech-signs-pact-with-anthropic-set-up-business-unit-2026-10-12/</link>
+      <description>HCLTech announced a partnership with Anthropic to promote enterprise adoption of agentic AI, with a dedicated business unit focused on AI solutions.</description>
+      <guid isPermaLink="false">urn:uuid:2d8a1b71-72ef-4ad7-a291-000000000002</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Artificial Intelligence</category>
+      <category>Enterprise Technology</category>
+      <category>India Technology</category>
     </item>
+
   </channel>
 </rss>
