@@ -1,15 +1,13 @@
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<rss
-  version="2.0"
-  xmlns:media="http://search.yahoo.com/mrss/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
->
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
   <channel>
     <title>Tech Insights Daily</title>
     <link>https://example.com/technology</link>
-    <description>
-      Latest technology, AI, software engineering and cybersecurity news.
-    </description>
+    <description>Latest technology, AI, software engineering and cybersecurity news.</description>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Oct 2026 00:00:00 GMT</lastBuildDate>
     <generator>Tech Insights RSS Generator</generator>
@@ -23,84 +21,40 @@
     <item>
       <title>Microsoft Plans Major Deployment of Maia 300 AI Chips</title>
       <link>https://www.reuters.com/business/microsoft-plans-huge-deployment-of-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/</link>
-      <description><![CDATA[
-        Microsoft unveiled its Maia 300 custom AI chip and plans
-        extensive deployment in 2027. The chip is designed to improve
-        computing efficiency and reduce AI infrastructure costs.
-        <img
-          src="https://images.unsplash.com/photo-1518770660439-4636190af475"
-          alt="Computer hardware and electronic components"
-        />
-      ]]></description>
-      <content:encoded><![CDATA[
-        <p>Microsoft is expanding its custom AI hardware strategy.</p>
-        <p>
-          The Maia 300 chip targets more efficient AI computing
-          across data centers.
-        </p>
-        <img
-          src="https://images.unsplash.com/photo-1518770660439-4636190af475"
-          alt="Computer hardware and electronic components"
-        />
-      ]]></content:encoded>
+      <description><![CDATA[Microsoft is expanding its custom AI hardware strategy. The Maia 300 chip targets more efficient AI computing across data centers. <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Computer hardware and electronic components"/>]]></description>
+      <content:encoded><![CDATA[<p>Microsoft is expanding its custom AI hardware strategy.</p><p>The Maia 300 chip targets more efficient AI computing across data centers.</p><img src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Computer hardware and electronic components"/>]]></content:encoded>
       <guid isPermaLink="false">urn:uuid:7b8b03f5-42a1-4d9e-a100-000000000001</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
       <category>Artificial Intelligence</category>
       <category>Semiconductors</category>
       <category>Cloud Computing</category>
-      <media:thumbnail
-        url="https://images.unsplash.com/photo-1518770660439-4636190af475"
-        width="300"
-        height="200"
-      />
-      <media:content
-        url="https://images.unsplash.com/photo-1518770660439-4636190af475"
-        medium="image"
-      />
+      <media:thumbnail url="https://images.unsplash.com/photo-1518770660439-4636190af475" width="300" height="200"/>
+      <media:content url="https://images.unsplash.com/photo-1518770660439-4636190af475" medium="image"/>
     </item>
 
     <item>
       <title>Technology Companies Face Growing AI Cybersecurity Challenges</title>
       <link>https://www.theguardian.com/technology/2026/oct/12/cyber-attack-like-openai-medicare-breach-seems-likely-in-uk-says-minister</link>
-      <description><![CDATA[
-        UK officials warned that advanced AI systems could create new
-        cybersecurity risks. Organizations are increasing their focus
-        on AI safety, access controls and security testing.
-      ]]></description>
+      <description><![CDATA[Advanced AI systems could create new cybersecurity risks. Organizations are increasing their focus on AI safety, access controls and security testing. <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b" alt="Cybersecurity technology"/>]]></description>
       <guid isPermaLink="false">urn:uuid:7b8b03f5-42a1-4d9e-a100-000000000002</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
       <category>Cybersecurity</category>
       <category>Artificial Intelligence</category>
-      <enclosure
-        url="https://images.unsplash.com/photo-1550751827-4bd374c3f58b"
-        length="0"
-        type="image/jpeg"
-      />
-      <media:thumbnail
-        url="https://images.unsplash.com/photo-1550751827-4bd374c3f58b"
-        width="300"
-        height="200"
-      />
+      <media:thumbnail url="https://images.unsplash.com/photo-1550751827-4bd374c3f58b" width="300" height="200"/>
     </item>
 
     <item>
       <title>India's Technology Sector Continues Its AI and Semiconductor Push</title>
       <link>https://m.economictimes.com/tech/startups/et-startup-awards-2026-govt-backing-and-patient-capital-propel-indias-leap-into-ai-and-chips-satyan-gajwani/articleshow/134874377.cms</link>
-      <description><![CDATA[
-        Industry leaders highlighted government support and patient
-        capital as important factors in India's growing artificial
-        intelligence and semiconductor ecosystem.
-      ]]></description>
+      <description><![CDATA[Industry leaders highlighted government support and patient capital as important factors in India's growing artificial intelligence and semiconductor ecosystem. <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" alt="Technology professionals collaborating"/>]]></description>
       <guid isPermaLink="false">urn:uuid:7b8b03f5-42a1-4d9e-a100-000000000003</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
       <category>India Technology</category>
       <category>Startups</category>
       <category>Semiconductors</category>
-      <media:thumbnail
-        url="https://images.unsplash.com/photo-1519389950473-47ba0277781c"
-        width="300"
-        height="200"
-      />
+      <media:thumbnail url="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="300" height="200"/>
     </item>
+
   </channel>
 </rss>
+```
