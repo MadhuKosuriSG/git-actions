@@ -52,5 +52,15 @@
   <author>tech.editors@wikipedia.org (Wikipedia Technology Contributors)</author>
   <comments>https://en.wikipedia.org/wiki/Talk:Blockchain</comments>
 </item>
+    <item>
+  <title>Black Hole</title>
+  <link>https://en.wikipedia.org/wiki/Black_hole</link>
+  <description>A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape once it crosses the boundary known as the event horizon.</description>
+  <category domain="https://en.wikipedia.org/wiki/Category:">Astrophysics</category>
+  <pubDate>Wed, 17 Jun 2026 13:30:00 GMT</pubDate>
+  <guid isPermaLink="true">https://en.wikipedia.org/wiki/Black_hole</guid>
+  <author>astronomy.editors@wikipedia.org (Wikipedia Astronomy Contributors)</author>
+  <comments>https://en.wikipedia.org/wiki/Talk:Black_hole</comments>
+</item>
   </channel>
 </rss>
