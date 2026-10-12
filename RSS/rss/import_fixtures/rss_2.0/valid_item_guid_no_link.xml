@@ -12,6 +12,7 @@
     <language>en-us</language>
   <item>
   <title>Quantum Computing</title>
+  <link>https://en.wikipedia.org/wiki/Quantum_computing</link>
   <description>Quantum computing is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers.</description>
   <category domain="https://en.wikipedia.org/wiki/Category:">Physics</category>
   <pubDate>Wed, 14 Jan 2026 14:30:00 GMT</pubDate>
@@ -21,6 +22,7 @@
   </item>
     <item>
   <title>Machine Learning</title>
+  <link>https://en.wikipedia.org/wiki/Machine_learning</link>
   <description>Machine learning is a field of artificial intelligence focused on algorithms that learn patterns from data and improve their performance on tasks without being explicitly programmed.</description>
   <category domain="https://en.wikipedia.org/wiki/Category:">Computer Science</category>
   <pubDate>Fri, 06 Feb 2026 09:15:00 GMT</pubDate>
