@@ -10,17 +10,7 @@
     <link>https://www.wikipedia.org/</link>
     <description>Notable Wikipedia articles in RSS 2.0 format.</description>
     <language>en-us</language>
-  <item>
-  <title>Quantum Computing</title>
-  <link>https://en.wikipedia.org/wiki/Quantum_computing</link>
-  <description>Quantum computing is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers.</description>
-  <category domain="https://en.wikipedia.org/wiki/Category:">Physics</category>
-  <pubDate>Wed, 14 Jan 2026 14:30:00 GMT</pubDate>
-  <guid isPermaLink="true">https://wikipedia.org</guid>
-  <author>science.editors@wikipedia.org (Wikipedia Science Contributors)</author>
-  <comments>https://wikipedia.org</comments>
-  </item>
-    <item>
+<item>
   <title>Machine Learning</title>
   <link>https://en.wikipedia.org/wiki/Machine_learning</link>
   <description>Machine learning is a field of artificial intelligence focused on algorithms that learn patterns from data and improve their performance on tasks without being explicitly programmed.</description>
@@ -29,15 +19,28 @@
   <guid isPermaLink="true">https://en.wikipedia.org/wiki/Machine_learning</guid>
   <author>tech.editors@wikipedia.org (Wikipedia Technology Contributors)</author>
   <comments>https://en.wikipedia.org/wiki/Talk:Machine_learning</comments>
-  </item>
-    <item>
+</item>
+
+<item>
   <title>CRISPR Gene Editing</title>
+  <link>https://en.wikipedia.org/wiki/CRISPR_gene_editing</link>
   <description>CRISPR gene editing is a genetic engineering technique that uses the Cas9 enzyme and guide RNA to precisely cut and modify DNA sequences within living organisms.</description>
   <category domain="https://en.wikipedia.org/wiki/Category:">Genetics</category>
   <pubDate>Mon, 09 Mar 2026 11:45:00 GMT</pubDate>
   <guid isPermaLink="true">https://en.wikipedia.org/wiki/CRISPR_gene_editing</guid>
   <author>biology.editors@wikipedia.org (Wikipedia Biology Contributors)</author>
   <comments>https://en.wikipedia.org/wiki/Talk:CRISPR_gene_editing</comments>
+</item>
+
+<item>
+  <title>Fusion Power</title>
+  <link>https://en.wikipedia.org/wiki/Fusion_power</link>
+  <description>Fusion power is a proposed form of energy generation that produces electricity from the heat released when light atomic nuclei, such as hydrogen isotopes, fuse together.</description>
+  <category domain="https://en.wikipedia.org/wiki/Category:">Energy</category>
+  <pubDate>Thu, 16 Apr 2026 16:20:00 GMT</pubDate>
+  <guid isPermaLink="true">https://en.wikipedia.org/wiki/Fusion_power</guid>
+  <author>energy.editors@wikipedia.org (Wikipedia Energy Contributors)</author>
+  <comments>https://en.wikipedia.org/wiki/Talk:Fusion_power</comments>
 </item>
   </channel>
 </rss>
