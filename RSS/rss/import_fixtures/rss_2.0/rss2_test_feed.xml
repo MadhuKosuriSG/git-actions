@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>ByteForge Engineering Blog</title>
+    <link>https://blog.byteforge.dev/</link>
+    <description>Deep dives on backend systems, cloud infrastructure, and developer tooling.</description>
+    <language>en-us</language>
+    <copyright>© 2026 ByteForge Labs</copyright>
+    <managingEditor>editor@byteforge.dev (Priya Raman)</managingEditor>
+    <webMaster>ops@byteforge.dev (Ops Team)</webMaster>
+    <pubDate>Fri, 09 Oct 2026 09:00:00 +0530</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:15:00 +0530</lastBuildDate>
+    <generator>Hugo 0.135.0</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>60</ttl>
+    <atom:link href="https://blog.byteforge.dev/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Channel-level categories: text-based (RSS core) + attribute-based (iTunes) -->
+    <category>Technology</category>
+    <category domain="https://blog.byteforge.dev/sections">Engineering</category>
+    <itunes:category text="Technology"/>
+
+    <!-- Channel-level images: RSS core <image> + iTunes fallback -->
+    <image>
+      <url>https://cdn.byteforge.dev/brand/logo-144x144.png</url>
+      <title>ByteForge Engineering Blog</title>
+      <link>https://blog.byteforge.dev/</link>
+      <width>144</width>
+      <height>144</height>
+      <description>ByteForge logo</description>
+    </image>
+    <itunes:image href="https://cdn.byteforge.dev/brand/podcast-cover-3000.jpg"/>
+    <itunes:author>ByteForge Labs</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- ITEM 1: Thumbnail via Media RSS (media:thumbnail + media:content) -->
+    <item>
+      <title>Structured Concurrency in Python 3.13 with asyncio.TaskGroup</title>
+      <link>https://blog.byteforge.dev/posts/python-taskgroup-structured-concurrency</link>
+      <guid isPermaLink="false">urn:uuid:3f9c2a7e-8b41-4d6e-9a52-1c7e0f4b8d21</guid>
+      <pubDate>Fri, 09 Oct 2026 08:30:00 +0530</pubDate>
+      <dc:creator>Priya Raman</dc:creator>
+      <description>How TaskGroup replaces gather() for safer cancellation and error propagation in async Python services.</description>
+      <category>Python</category>
+      <category domain="https://blog.byteforge.dev/tags">asyncio</category>
+      <atom:category term="python" label="Python" scheme="https://blog.byteforge.dev/tags"/>
+      <atom:category term="concurrency" label="Concurrency"/>
+      <media:category scheme="https://blog.byteforge.dev/taxonomy" label="Backend">backend/python</media:category>
+      <media:thumbnail url="https://cdn.byteforge.dev/img/2026/10/taskgroup-thumb-320x180.jpg" width="320" height="180"/>
+      <media:content url="https://cdn.byteforge.dev/img/2026/10/taskgroup-hero-1600x900.jpg"
+                     type="image/jpeg" medium="image" width="1600" height="900" fileSize="248310">
+        <media:title type="plain">TaskGroup lifecycle diagram</media:title>
+        <media:thumbnail url="https://cdn.byteforge.dev/img/2026/10/taskgroup-hero-thumb.jpg" width="160" height="90"/>
+      </media:content>
+    </item>
+
+    <!-- ITEM 2: Thumbnail via <enclosure> only (permalink GUID) -->
+    <item>
+      <title>Zero-Downtime Kubernetes Deployments with Pod Disruption Budgets</title>
+      <link>https://blog.byteforge.dev/posts/k8s-zero-downtime-pdb</link>
+      <guid isPermaLink="true">https://blog.byteforge.dev/posts/k8s-zero-downtime-pdb</guid>
+      <pubDate>Wed, 07 Oct 2026 14:00:00 +0530</pubDate>
+      <author>arjun.mehta@byteforge.dev (Arjun Mehta)</author>
+      <description>Combining readiness probes, preStop hooks, and PDBs to roll out changes without dropping a single request.</description>
+      <category>Kubernetes</category>
+      <category>DevOps</category>
+      <atom:category term="kubernetes"/>
+      <atom:category term="sre" label="Site Reliability"/>
+      <enclosure url="https://cdn.byteforge.dev/img/2026/10/k8s-pdb-cover.jpg" length="184522" type="image/jpeg"/>
+      <comments>https://blog.byteforge.dev/posts/k8s-zero-downtime-pdb#comments</comments>
+    </item>
+
+    <!-- ITEM 3: Thumbnail via HTML <img> inside description / content:encoded (CDATA) -->
+    <item>
+      <title>Rust vs. Go for High-Throughput Log Ingestion: A Benchmark</title>
+      <link>https://blog.byteforge.dev/posts/rust-vs-go-log-ingestion</link>
+      <guid isPermaLink="false">tag:blog.byteforge.dev,2026-10-05:/posts/rust-vs-go-log-ingestion</guid>
+      <pubDate>Mon, 05 Oct 2026 10:45:00 +0530</pubDate>
+      <dc:creator>Lena Hoffmann</dc:creator>
+      <description><![CDATA[<p><img src="https://cdn.byteforge.dev/img/2026/10/rust-go-bench-640x360.png" alt="Throughput chart: Rust vs Go" width="640" height="360"/></p><p>We pushed 2.1M events/sec through two ingestion pipelines. Here's where each language won &amp; lost.</p>]]></description>
+      <content:encoded><![CDATA[
+        <figure>
+          <img src="https://cdn.byteforge.dev/img/2026/10/rust-go-bench-1280x720.png" alt="Throughput chart: Rust vs Go" width="1280" height="720"/>
+          <figcaption>p99 latency under sustained load</figcaption>
+        </figure>
+        <p>Our test harness replayed 48 hours of production logs against a <code>tokio</code>-based Rust service and a goroutine-based Go service...</p>
+      ]]></content:encoded>
+      <category>Rust</category>
+      <category>Go</category>
+      <category domain="https://blog.byteforge.dev/tags">performance</category>
+      <atom:category term="benchmarks" label="Benchmarks"/>
+    </item>
+
+    <!-- ITEM 4: Podcast episode - audio <enclosure> + episode-level <itunes:image> -->
+    <item>
+      <title>ByteForge Radio Ep. 42: Platform Engineering Is Eating DevOps</title>
+      <link>https://blog.byteforge.dev/podcast/ep-42-platform-engineering</link>
+      <guid isPermaLink="false">bf-podcast-ep-042-7d1e9c</guid>
+      <pubDate>Fri, 02 Oct 2026 18:00:00 +0530</pubDate>
+      <dc:creator>Priya Raman, Arjun Mehta</dc:creator>
+      <description>We discuss internal developer platforms, golden paths, and why your Backstage rollout stalled.</description>
+      <category>Podcast</category>
+      <category>Platform Engineering</category>
+      <atom:category term="podcast"/>
+      <enclosure url="https://media.byteforge.dev/podcast/bf-radio-042.mp3" length="38542112" type="audio/mpeg"/>
+      <itunes:image href="https://cdn.byteforge.dev/podcast/ep42-cover-1400.jpg"/>
+      <itunes:duration>00:40:09</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
