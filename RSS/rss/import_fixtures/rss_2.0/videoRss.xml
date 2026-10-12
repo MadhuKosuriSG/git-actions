@@ -19,7 +19,7 @@
       <comments>https://en.wikipedia.org/wiki/Talk:Artificial_intelligence</comments>
     </item>
     <item>
-      <title><New Video></title>
+      <title>New Video</title>
       <link>https://www.youtube.com/watch?v=3cHeBj99SII</link>
       <description><![CDATA[<p>Django follows the <b>MVT</b> pattern and includes batteries.</p>]]></description>
       <category domain="https://en.wikipedia.org/wiki/Category:">Web Development</category>
@@ -29,7 +29,7 @@
       <comments>https://en.wikipedia.org/wiki/Talk:Django_(web_framework)</comments>
     </item>
  <item>
-      <title><Existing Video from source></title>
+      <title>Existing Video from source</title>
       <link>https://youtu.be/uzJDr9Ei58U</link>
       <description><![CDATA[<p>Django follows the <b>MVT</b> pattern and includes batteries.</p>]]></description>
       <category domain="https://en.wikipedia.org/wiki/Category:">Web Development</category>
