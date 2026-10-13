@@ -44,17 +44,5 @@
       <source url="https://www.wikipedia.org/rss">Wikipedia</source>
       <enclosure url="https://upload.wikimedia.org/sample.mp3" length="24986239" type="audio/mpeg"/>
     </item>
-    <item>
-      <title>PostgreSQL</title>
-      <link>https://en.wikipedia.org/wiki/PostgreSQL</link>
-      <description>PostgreSQL is a free and open-source relational database management system.</description>
-      <category domain="https://en.wikipedia.org/wiki/Category:">Databases</category>
-      <pubDate>Wed, 07 Jan 2026 14:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://en.wikipedia.org/wiki/PostgreSQL</guid>
-      <author>editors@wikipedia.org (Wikipedia Editors)</author>
-      <comments>https://en.wikipedia.org/wiki/Talk:PostgreSQL</comments>
-      <source url="https://www.wikipedia.org/rss">Wikipedia</source>
-      <enclosure url="https://upload.wikimedia.org/sample.mp3" length="24986239" type="audio/mpeg"/>
-    </item>
   </channel>
 </rss>
