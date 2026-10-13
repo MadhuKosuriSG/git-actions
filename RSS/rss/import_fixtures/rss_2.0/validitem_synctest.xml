@@ -52,5 +52,14 @@
   <author>tech.editors@wikipedia.org (Wikipedia Technology Contributors)</author>
   <comments>https://en.wikipedia.org/wiki/Talk:Blockchain</comments>
 </item>
+    <item>
+      <title>Sample Document</title>
+      <link>https://github.com/example/repo</link>
+      <description>Microsoft Word document sample</description>
+      <category>Documents</category>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">sample-doc-001</guid>
+      <enclosure url="https://raw.githubusercontent.com/microsoft/Word-Add-in-samples/main/samples/sample.docx" length="1542378" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+    </item>
   </channel>
 </rss>
