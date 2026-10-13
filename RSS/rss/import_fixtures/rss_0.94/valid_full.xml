@@ -32,17 +32,5 @@
       <source url="https://www.wikipedia.org/rss">Wikipedia</source>
       <enclosure url="https://upload.wikimedia.org/sample.mp3" length="24986239" type="audio/mpeg"/>
     </item>
-    <item>
-      <title>Ruby on Rails</title>
-      <link>https://en.wikipedia.org/wiki/Ruby_on_Rails</link>
-      <description>Ruby on Rails is a server-side web application framework written in Ruby.</description>
-      <category domain="https://en.wikipedia.org/wiki/Category:">Web Development</category>
-      <pubDate>Tue, 06 Jan 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Ruby_on_Rails</guid>
-      <author>editors@wikipedia.org (Wikipedia Editors)</author>
-      <comments>https://en.wikipedia.org/wiki/Talk:Ruby_on_Rails</comments>
-      <source url="https://www.wikipedia.org/rss">Wikipedia</source>
-      <enclosure url="https://upload.wikimedia.org/sample.mp3" length="24986239" type="audio/mpeg"/>
-    </item>
   </channel>
 </rss>
