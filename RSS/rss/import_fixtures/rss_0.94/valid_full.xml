@@ -44,5 +44,17 @@
       <source url="https://www.wikipedia.org/rss">Wikipedia</source>
       <enclosure url="https://upload.wikimedia.org/sample.mp3" length="24986239" type="audio/mpeg"/>
     </item>
+    <item>
+      <title>Artificial Intelligence one sss</title>
+      <link>https://en.wikipedia.org/wiki/Main_Page</link>
+      <description>Artificial intelligence is intelligence demonstrated by machines.</description>
+      <category domain="https://en.wikipedia.org/wiki/Category:">Computer Science</category>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Main_Page</guid>
+      <author>editors@wikipedia.org (Wikipedia Editors)</author>
+      <comments>https://en.wikipedia.org/wiki/Talk:Artificial_intelligence</comments>
+      <category>Machine Learning</category>
+      <category>Robotics</category>
+    </item>
   </channel>
 </rss>
