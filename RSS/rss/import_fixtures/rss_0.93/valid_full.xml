@@ -39,15 +39,5 @@
       <enclosure url="https://upload.wikimedia.org/sample.mp3" length="24986239" type="audio/mpeg"/>
       <expirationDate>Fri, 31 Dec 2027 23:59:59 GMT</expirationDate>
     </item>
-    <item>
-      <title>PostgreSQL</title>
-      <link>https://en.wikipedia.org/wiki/PostgreSQL</link>
-      <description>PostgreSQL is a free and open-source relational database management system.</description>
-      <category>Databases</category>
-      <pubDate>Wed, 07 Jan 2026 14:15:00 GMT</pubDate>
-      <source url="https://www.wikipedia.org/rss">Wikipedia</source>
-      <enclosure url="https://upload.wikimedia.org/sample.mp3" length="24986239" type="audio/mpeg"/>
-      <expirationDate>Fri, 31 Dec 2027 23:59:59 GMT</expirationDate>
-    </item>
   </channel>
 </rss>
