@@ -42,24 +42,5 @@
   <author>energy.editors@wikipedia.org (Wikipedia Energy Contributors)</author>
   <comments>https://en.wikipedia.org/wiki/Talk:Fusion_power</comments>
 </item>
-    <item>
-  <title>Blockchain</title>
-  <link>https://en.wikipedia.org/wiki/Blockchain</link>
-  <description>A blockchain is a distributed ledger of records, called blocks, that are securely linked together using cryptographic hashes, making the stored data resistant to tampering.</description>
-  <category domain="https://en.wikipedia.org/wiki/Category:">Cryptography</category>
-  <pubDate>Tue, 12 May 2026 10:00:00 GMT</pubDate>
-  <guid isPermaLink="true">https://en.wikipedia.org/wiki/Blockchain</guid>
-  <author>tech.editors@wikipedia.org (Wikipedia Technology Contributors)</author>
-  <comments>https://en.wikipedia.org/wiki/Talk:Blockchain</comments>
-</item>
-    <item>
-      <title>Sample Document</title>
-      <link>https://github.com/example/repo</link>
-      <description>Microsoft Word document sample</description>
-      <category>Documents</category>
-      <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="false">sample-doc-001</guid>
-      <enclosure url="https://raw.githubusercontent.com/microsoft/Word-Add-in-samples/main/samples/sample.docx" length="1542378" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
-    </item>
   </channel>
 </rss>
