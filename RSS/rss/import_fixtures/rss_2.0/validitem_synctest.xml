@@ -31,5 +31,15 @@
   <author>biology.editors@wikipedia.org (Wikipedia Biology Contributors)</author>
   <comments>https://en.wikipedia.org/wiki/Talk:CRISPR_gene_editing</comments>
 </item>
+        <item>
+<title>Blockchain</title>
+<link>https://en.wikipedia.org/wiki/Blockchain</link>
+<description>A blockchain is a distributed ledger of records, called blocks, that are securely linked together using cryptographic hashes, making the stored data resistant to tampering.</description>
+<category domain="https://en.wikipedia.org/wiki/Category:">Cryptography</category>
+<pubDate>Tue, 12 May 2026 10:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://en.wikipedia.org/wiki/Blockchain</guid>
+<author>tech.editors@wikipedia.org (Wikipedia Technology Contributors)</author>
+<comments>https://en.wikipedia.org/wiki/Talk:Blockchain</comments>
+</item>
   </channel>
 </rss>
