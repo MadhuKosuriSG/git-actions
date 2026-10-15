@@ -22,5 +22,15 @@
       <author>research@papers.example.org (Research Team)</author>
       <enclosure url="https://papers.example.org/pdfs/2026-10-deep-learning-nlp.pdf" length="2847562" type="application/pdf"/>
     </item>
+        <item>
+      <title>Green Sea</title>
+      <link>https://youtu.be/qsfQUKnyQPc?si=PwUnZHyY-qjv3Hmi</link>
+      <description>A comprehensive survey of deep learning techniques applied to NLP tasks including sentiment analysis, machine translation, and question answering.</description>
+      <category>Sea</category>
+      <pubDate>Thu, 21 Oct 2026 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://papers.example.org/deep-learning-nlp</guid>
+      <author>research@papers.example.org (Research Team)</author>
+      <enclosure url="https://papers.example.org/pdfs/2026-10-deep-learning-nlp.pdf" length="2847562" type="application/pdf"/>
+    </item>
   </channel>
 </rss>
