@@ -31,16 +31,5 @@
   <author>biology.editors@wikipedia.org (Wikipedia Biology Contributors)</author>
   <comments>https://en.wikipedia.org/wiki/Talk:CRISPR_gene_editing</comments>
 </item>
-
-<item>
-  <title>Fusion Power Fusion</title>
-  <link>https://en.wikipedia.org/wiki/Fusion_power</link>
-  <description>Fusion power produces electricity from the heat released when light atomic nuclei, such as hydrogen isotopes, fuse together.</description>
-  <category domain="https://en.wikipedia.org/wiki/Category:">Energy</category>
-  <pubDate>Thu, 18 Apr 2026 16:20:00 GMT</pubDate>
-  <guid isPermaLink="true">https://en.wikipedia.org/wiki/Fusion_power</guid>
-  <author>energy.editors@wikipedia.org (Wikipedia Energy Contributors)</author>
-  <comments>https://en.wikipedia.org/wiki/Talk:Fusion_power</comments>
-</item>
   </channel>
 </rss>
