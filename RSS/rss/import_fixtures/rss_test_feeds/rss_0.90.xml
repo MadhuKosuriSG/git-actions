@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://my.netscape.com/rdf/simple/0.9/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>PD-38645 RSS 0.90 media types</title>
+<link>https://example.com/</link>
+<description>RSS 0.90 media type samples</description>
+</channel>
+<item>
+<title>[RSS 0.90] Webpage (control)</title>
+<link>https://en.wikipedia.org/wiki/RSS</link>
+</item>
+<item>
+<title>[RSS 0.90] YouTube video (control)</title>
+<link>https://www.youtube.com/watch?v=jNQXAC9IVRw</link>
+</item>
+<item>
+<title>[RSS 0.90] Vimeo video</title>
+<link>https://vimeo.com/76979871</link>
+</item>
+<item>
+<title>[RSS 0.90] PDF direct link</title>
+<link>https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf</link>
+</item>
+<item>
+<title>[RSS 0.90] PDF with query string</title>
+<link>https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf?utm_source=rss</link>
+</item>
+<item>
+<title>[RSS 0.90] Image JPG direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg</link>
+</item>
+<item>
+<title>[RSS 0.90] Image PNG direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</link>
+</item>
+<item>
+<title>[RSS 0.90] Image GIF direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif</link>
+</item>
+<item>
+<title>[RSS 0.90] SlideShare deck</title>
+<link>https://www.slideshare.net/slideshow/replace-with-a-real-deck/123456789</link>
+</item>
+<item>
+<title>[RSS 0.90] Audio MP3 direct link</title>
+<link>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3</link>
+</item>
+<item>
+<title>[RSS 0.90] Video MP4 direct file</title>
+<link>https://www.w3schools.com/html/mov_bbb.mp4</link>
+</item>
+<item>
+<title>[RSS 0.90] Word document</title>
+<link>https://calibre-ebook.com/downloads/demos/demo.docx</link>
+</item>
+</rdf:RDF>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>PD-38645 RSS 2.0 media types</title>
+<link>https://example.com/</link>
+<description>RSS 2.0 media type samples</description>
+<item>
+<title>[RSS 2.0] Webpage (control)</title>
+<link>https://en.wikipedia.org/wiki/RSS</link>
+<guid isPermaLink="false">pd-38645-rss20-webpage</guid>
+<description>Sample item for media type test: Webpage (control)</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>webpage</category>
+</item>
+<item>
+<title>[RSS 2.0] YouTube video (control)</title>
+<link>https://www.youtube.com/watch?v=jNQXAC9IVRw</link>
+<guid isPermaLink="false">pd-38645-rss20-youtube</guid>
+<description>Sample item for media type test: YouTube video (control)</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>youtube</category>
+</item>
+<item>
+<title>[RSS 2.0] Vimeo video</title>
+<link>https://vimeo.com/76979871</link>
+<guid isPermaLink="false">pd-38645-rss20-vimeo</guid>
+<description>Sample item for media type test: Vimeo video</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>vimeo</category>
+</item>
+<item>
+<title>[RSS 2.0] PDF direct link</title>
+<link>https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf</link>
+<guid isPermaLink="false">pd-38645-rss20-pdf</guid>
+<description>Sample item for media type test: PDF direct link</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>pdf</category>
+</item>
+<item>
+<title>[RSS 2.0] PDF with query string</title>
+<link>https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf?utm_source=rss</link>
+<guid isPermaLink="false">pd-38645-rss20-pdf_query</guid>
+<description>Sample item for media type test: PDF with query string</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>pdf_query</category>
+</item>
+<item>
+<title>[RSS 2.0] Image JPG direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg</link>
+<guid isPermaLink="false">pd-38645-rss20-jpg</guid>
+<description>Sample item for media type test: Image JPG direct link</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>jpg</category>
+</item>
+<item>
+<title>[RSS 2.0] Image PNG direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</link>
+<guid isPermaLink="false">pd-38645-rss20-png</guid>
+<description>Sample item for media type test: Image PNG direct link</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>png</category>
+</item>
+<item>
+<title>[RSS 2.0] Image GIF direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif</link>
+<guid isPermaLink="false">pd-38645-rss20-gif</guid>
+<description>Sample item for media type test: Image GIF direct link</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>gif</category>
+</item>
+<item>
+<title>[RSS 2.0] SlideShare deck</title>
+<link>https://www.slideshare.net/slideshow/replace-with-a-real-deck/123456789</link>
+<guid isPermaLink="false">pd-38645-rss20-slideshare</guid>
+<description>Sample item for media type test: SlideShare deck</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>slideshare</category>
+</item>
+<item>
+<title>[RSS 2.0] Audio MP3 direct link</title>
+<link>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3</link>
+<guid isPermaLink="false">pd-38645-rss20-mp3</guid>
+<description>Sample item for media type test: Audio MP3 direct link</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>mp3</category>
+</item>
+<item>
+<title>[RSS 2.0] Video MP4 direct file</title>
+<link>https://www.w3schools.com/html/mov_bbb.mp4</link>
+<guid isPermaLink="false">pd-38645-rss20-mp4</guid>
+<description>Sample item for media type test: Video MP4 direct file</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>mp4</category>
+</item>
+<item>
+<title>[RSS 2.0] Word document</title>
+<link>https://calibre-ebook.com/downloads/demos/demo.docx</link>
+<guid isPermaLink="false">pd-38645-rss20-docx</guid>
+<description>Sample item for media type test: Word document</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>docx</category>
+</item>
+<item>
+<title>[RSS 2.0] Podcast: page link + MP3 enclosure</title>
+<link>https://en.wikipedia.org/wiki/Podcast</link>
+<guid isPermaLink="false">pd-38645-rss20-podcast</guid>
+<description>Sample item for media type test: Podcast: page link + MP3 enclosure</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>podcast</category>
+<enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" length="0" type="audio/mpeg"/>
+<itunes:duration>06:12</itunes:duration>
+</item>
+<item>
+<title>[RSS 2.0] Page link + PDF enclosure</title>
+<link>https://en.wikipedia.org/wiki/PDF</link>
+<guid isPermaLink="false">pd-38645-rss20-pdf_encl</guid>
+<description>Sample item for media type test: Page link + PDF enclosure</description>
+<pubDate>Thu, 01 Oct 2026 10:00:00 GMT</pubDate>
+<category>pdf_encl</category>
+<enclosure url="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" length="0" type="application/pdf"/>
+</item>
+</channel>
+</rss>

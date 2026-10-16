@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel rdf:about="https://example.com/">
+<title>PD-38645 RSS 1.0 media types</title>
+<link>https://example.com/</link>
+<description>RSS 1.0 media type samples</description>
+<items><rdf:Seq>
+<rdf:li rdf:resource="https://en.wikipedia.org/wiki/RSS"/>
+<rdf:li rdf:resource="https://www.youtube.com/watch?v=jNQXAC9IVRw"/>
+<rdf:li rdf:resource="https://vimeo.com/76979871"/>
+<rdf:li rdf:resource="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"/>
+<rdf:li rdf:resource="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf?utm_source=rss"/>
+<rdf:li rdf:resource="https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg"/>
+<rdf:li rdf:resource="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png"/>
+<rdf:li rdf:resource="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif"/>
+<rdf:li rdf:resource="https://www.slideshare.net/slideshow/replace-with-a-real-deck/123456789"/>
+<rdf:li rdf:resource="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"/>
+<rdf:li rdf:resource="https://www.w3schools.com/html/mov_bbb.mp4"/>
+<rdf:li rdf:resource="https://calibre-ebook.com/downloads/demos/demo.docx"/>
+</rdf:Seq></items>
+</channel>
+<item rdf:about="https://en.wikipedia.org/wiki/RSS">
+<title>[RSS 1.0] Webpage (control)</title>
+<link>https://en.wikipedia.org/wiki/RSS</link>
+<description>Sample item for media type test: Webpage (control)</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>webpage</dc:subject>
+</item>
+<item rdf:about="https://www.youtube.com/watch?v=jNQXAC9IVRw">
+<title>[RSS 1.0] YouTube video (control)</title>
+<link>https://www.youtube.com/watch?v=jNQXAC9IVRw</link>
+<description>Sample item for media type test: YouTube video (control)</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>youtube</dc:subject>
+</item>
+<item rdf:about="https://vimeo.com/76979871">
+<title>[RSS 1.0] Vimeo video</title>
+<link>https://vimeo.com/76979871</link>
+<description>Sample item for media type test: Vimeo video</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>vimeo</dc:subject>
+</item>
+<item rdf:about="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf">
+<title>[RSS 1.0] PDF direct link</title>
+<link>https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf</link>
+<description>Sample item for media type test: PDF direct link</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>pdf</dc:subject>
+</item>
+<item rdf:about="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf?utm_source=rss">
+<title>[RSS 1.0] PDF with query string</title>
+<link>https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf?utm_source=rss</link>
+<description>Sample item for media type test: PDF with query string</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>pdf_query</dc:subject>
+</item>
+<item rdf:about="https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg">
+<title>[RSS 1.0] Image JPG direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg</link>
+<description>Sample item for media type test: Image JPG direct link</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>jpg</dc:subject>
+</item>
+<item rdf:about="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png">
+<title>[RSS 1.0] Image PNG direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</link>
+<description>Sample item for media type test: Image PNG direct link</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>png</dc:subject>
+</item>
+<item rdf:about="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif">
+<title>[RSS 1.0] Image GIF direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif</link>
+<description>Sample item for media type test: Image GIF direct link</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>gif</dc:subject>
+</item>
+<item rdf:about="https://www.slideshare.net/slideshow/replace-with-a-real-deck/123456789">
+<title>[RSS 1.0] SlideShare deck</title>
+<link>https://www.slideshare.net/slideshow/replace-with-a-real-deck/123456789</link>
+<description>Sample item for media type test: SlideShare deck</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>slideshare</dc:subject>
+</item>
+<item rdf:about="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3">
+<title>[RSS 1.0] Audio MP3 direct link</title>
+<link>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3</link>
+<description>Sample item for media type test: Audio MP3 direct link</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>mp3</dc:subject>
+</item>
+<item rdf:about="https://www.w3schools.com/html/mov_bbb.mp4">
+<title>[RSS 1.0] Video MP4 direct file</title>
+<link>https://www.w3schools.com/html/mov_bbb.mp4</link>
+<description>Sample item for media type test: Video MP4 direct file</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>mp4</dc:subject>
+</item>
+<item rdf:about="https://calibre-ebook.com/downloads/demos/demo.docx">
+<title>[RSS 1.0] Word document</title>
+<link>https://calibre-ebook.com/downloads/demos/demo.docx</link>
+<description>Sample item for media type test: Word document</description>
+<dc:date>2026-10-01T10:00:00Z</dc:date>
+<dc:subject>docx</dc:subject>
+</item>
+</rdf:RDF>

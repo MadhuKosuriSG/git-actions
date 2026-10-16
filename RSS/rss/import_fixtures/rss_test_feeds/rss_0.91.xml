@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+<channel>
+<title>PD-38645 RSS 0.91 media types</title>
+<link>https://example.com/</link>
+<description>RSS 0.91 media type samples</description>
+<language>en-us</language>
+<item>
+<title>[RSS 0.91] Webpage (control)</title>
+<link>https://en.wikipedia.org/wiki/RSS</link>
+<description>Sample item for media type test: Webpage (control)</description>
+</item>
+<item>
+<title>[RSS 0.91] YouTube video (control)</title>
+<link>https://www.youtube.com/watch?v=jNQXAC9IVRw</link>
+<description>Sample item for media type test: YouTube video (control)</description>
+</item>
+<item>
+<title>[RSS 0.91] Vimeo video</title>
+<link>https://vimeo.com/76979871</link>
+<description>Sample item for media type test: Vimeo video</description>
+</item>
+<item>
+<title>[RSS 0.91] PDF direct link</title>
+<link>https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf</link>
+<description>Sample item for media type test: PDF direct link</description>
+</item>
+<item>
+<title>[RSS 0.91] PDF with query string</title>
+<link>https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf?utm_source=rss</link>
+<description>Sample item for media type test: PDF with query string</description>
+</item>
+<item>
+<title>[RSS 0.91] Image JPG direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg</link>
+<description>Sample item for media type test: Image JPG direct link</description>
+</item>
+<item>
+<title>[RSS 0.91] Image PNG direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</link>
+<description>Sample item for media type test: Image PNG direct link</description>
+</item>
+<item>
+<title>[RSS 0.91] Image GIF direct link</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif</link>
+<description>Sample item for media type test: Image GIF direct link</description>
+</item>
+<item>
+<title>[RSS 0.91] SlideShare deck</title>
+<link>https://www.slideshare.net/slideshow/replace-with-a-real-deck/123456789</link>
+<description>Sample item for media type test: SlideShare deck</description>
+</item>
+<item>
+<title>[RSS 0.91] Audio MP3 direct link</title>
+<link>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3</link>
+<description>Sample item for media type test: Audio MP3 direct link</description>
+</item>
+<item>
+<title>[RSS 0.91] Video MP4 direct file</title>
+<link>https://www.w3schools.com/html/mov_bbb.mp4</link>
+<description>Sample item for media type test: Video MP4 direct file</description>
+</item>
+<item>
+<title>[RSS 0.91] Word document</title>
+<link>https://calibre-ebook.com/downloads/demos/demo.docx</link>
+<description>Sample item for media type test: Word document</description>
+</item>
+</channel>
+</rss>

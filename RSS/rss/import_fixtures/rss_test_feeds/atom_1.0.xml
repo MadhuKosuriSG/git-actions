@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>PD-38645 Atom 1.0 media types</title>
+<link rel="alternate" type="text/html" href="https://example.com/"/>
+<id>urn:pd-38645:atom1.0</id>
+<updated>2026-10-01T10:00:00Z</updated>
+<author><name>QA</name></author>
+<entry>
+<title>[Atom 1.0] Webpage (control)</title>
+<link rel="alternate" type="text/html" href="https://en.wikipedia.org/wiki/RSS"/>
+<id>urn:pd-38645:atom1.0:webpage</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: Webpage (control)</summary>
+<category term="webpage"/>
+</entry>
+<entry>
+<title>[Atom 1.0] YouTube video (control)</title>
+<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=jNQXAC9IVRw"/>
+<id>urn:pd-38645:atom1.0:youtube</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: YouTube video (control)</summary>
+<category term="youtube"/>
+</entry>
+<entry>
+<title>[Atom 1.0] Vimeo video</title>
+<link rel="alternate" type="text/html" href="https://vimeo.com/76979871"/>
+<id>urn:pd-38645:atom1.0:vimeo</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: Vimeo video</summary>
+<category term="vimeo"/>
+</entry>
+<entry>
+<title>[Atom 1.0] PDF direct link</title>
+<link rel="alternate" type="text/html" href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"/>
+<id>urn:pd-38645:atom1.0:pdf</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: PDF direct link</summary>
+<category term="pdf"/>
+</entry>
+<entry>
+<title>[Atom 1.0] PDF with query string</title>
+<link rel="alternate" type="text/html" href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf?utm_source=rss"/>
+<id>urn:pd-38645:atom1.0:pdf_query</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: PDF with query string</summary>
+<category term="pdf_query"/>
+</entry>
+<entry>
+<title>[Atom 1.0] Image JPG direct link</title>
+<link rel="alternate" type="text/html" href="https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg"/>
+<id>urn:pd-38645:atom1.0:jpg</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: Image JPG direct link</summary>
+<category term="jpg"/>
+</entry>
+<entry>
+<title>[Atom 1.0] Image PNG direct link</title>
+<link rel="alternate" type="text/html" href="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png"/>
+<id>urn:pd-38645:atom1.0:png</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: Image PNG direct link</summary>
+<category term="png"/>
+</entry>
+<entry>
+<title>[Atom 1.0] Image GIF direct link</title>
+<link rel="alternate" type="text/html" href="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif"/>
+<id>urn:pd-38645:atom1.0:gif</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: Image GIF direct link</summary>
+<category term="gif"/>
+</entry>
+<entry>
+<title>[Atom 1.0] SlideShare deck</title>
+<link rel="alternate" type="text/html" href="https://www.slideshare.net/slideshow/replace-with-a-real-deck/123456789"/>
+<id>urn:pd-38645:atom1.0:slideshare</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: SlideShare deck</summary>
+<category term="slideshare"/>
+</entry>
+<entry>
+<title>[Atom 1.0] Audio MP3 direct link</title>
+<link rel="alternate" type="text/html" href="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"/>
+<id>urn:pd-38645:atom1.0:mp3</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: Audio MP3 direct link</summary>
+<category term="mp3"/>
+</entry>
+<entry>
+<title>[Atom 1.0] Video MP4 direct file</title>
+<link rel="alternate" type="text/html" href="https://www.w3schools.com/html/mov_bbb.mp4"/>
+<id>urn:pd-38645:atom1.0:mp4</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: Video MP4 direct file</summary>
+<category term="mp4"/>
+</entry>
+<entry>
+<title>[Atom 1.0] Word document</title>
+<link rel="alternate" type="text/html" href="https://calibre-ebook.com/downloads/demos/demo.docx"/>
+<id>urn:pd-38645:atom1.0:docx</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: Word document</summary>
+<category term="docx"/>
+</entry>
+<entry>
+<title>[Atom 1.0] Podcast: page link + MP3 enclosure</title>
+<link rel="alternate" type="text/html" href="https://en.wikipedia.org/wiki/Podcast"/>
+<link rel="enclosure" type="audio/mpeg" href="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"/>
+<id>urn:pd-38645:atom1.0:podcast</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: Podcast: page link + MP3 enclosure</summary>
+<category term="podcast"/>
+</entry>
+<entry>
+<title>[Atom 1.0] Page link + PDF enclosure</title>
+<link rel="alternate" type="text/html" href="https://en.wikipedia.org/wiki/PDF"/>
+<link rel="enclosure" type="application/pdf" href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"/>
+<id>urn:pd-38645:atom1.0:pdf_encl</id>
+<published>2026-10-01T10:00:00Z</published>
+<updated>2026-10-01T10:00:00Z</updated>
+<summary>Sample item for media type test: Page link + PDF enclosure</summary>
+<category term="pdf_encl"/>
+</entry>
+</feed>
