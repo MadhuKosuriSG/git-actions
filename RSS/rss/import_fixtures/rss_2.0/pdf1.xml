@@ -1,91 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN"
+  "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
   <channel>
-    <title>Research Papers Archive</title>
-    <link>https://papers.example.org/</link>
-    <description>Research papers and multimedia resources</description>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:00:00 GMT</lastBuildDate>
+    <title>RSS 0.91 Media Type Test Feed</title>
+    <link>https://example.com/</link>
+    <description>Testing image, video, and PDF media type detection.</description>
 
-    <!-- Test 1: PDF through RSS enclosure -->
     <item>
-      <title>Deep Learning Research Paper</title>
-      <link>https://papers.example.org/deep-learning</link>
-      <description>A research paper in PDF format.</description>
-      <guid isPermaLink="false">research-001</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
-      <enclosure
-        url="https://papers.example.org/files/research.pdf"
-        length="2847562"
-        type="application/pdf"/>
+      <title>Research Image</title>
+      <link>https://example.com/media/research-image.jpg</link>
+      <description>Image extension detection test.</description>
     </item>
 
-    <!-- Test 2: Image through Media RSS MIME type -->
-    <item>
-      <title>Research Diagram</title>
-      <link>https://papers.example.org/diagram</link>
-      <description>A diagram illustrating a research model.</description>
-      <guid isPermaLink="false">research-002</guid>
-      <media:content
-        url="https://papers.example.org/media/diagram"
-        type="image/png"
-        medium="image"/>
-    </item>
-
-    <!-- Test 3: Video through Media RSS medium -->
-    <item>
-      <title>Research Presentation</title>
-      <link>https://papers.example.org/presentation</link>
-      <description>A video presentation of research findings.</description>
-      <guid isPermaLink="false">research-003</guid>
-      <media:content
-        url="https://papers.example.org/media/presentation"
-        medium="video"/>
-    </item>
-
-    <!-- Test 4: Image inferred from URL extension -->
-    <item>
-      <title>Research Thumbnail</title>
-      <link>https://papers.example.org/thumbnail</link>
-      <description>A research thumbnail image.</description>
-      <guid isPermaLink="false">research-004</guid>
-      <media:content
-        url="https://papers.example.org/images/thumbnail.jpg"/>
-    </item>
-
-    <!-- Test 5: Video inferred from URL extension -->
     <item>
       <title>Research Video</title>
-      <link>https://papers.example.org/video</link>
-      <description>A video with a recognizable file extension.</description>
-      <guid isPermaLink="false">research-005</guid>
-      <media:content
-        url="https://papers.example.org/videos/research.mp4"/>
+      <link>https://example.com/media/research-video.mp4</link>
+      <description>Video extension detection test.</description>
     </item>
 
-    <!-- Test 6: Atom enclosure link extension -->
     <item>
-      <title>Atom Enclosure Image</title>
-      <link>https://papers.example.org/atom-image</link>
-      <description>An image declared using an Atom enclosure link.</description>
-      <guid isPermaLink="false">research-006</guid>
-      <atom:link
-        rel="enclosure"
-        type="image/jpeg"
-        href="https://papers.example.org/media/atom-image"/>
-    </item>
-
-    <!-- Test 7: Unknown media type -->
-    <item>
-      <title>Unknown Media</title>
-      <link>https://papers.example.org/unknown</link>
-      <description>Media without a declared type or extension.</description>
-      <guid isPermaLink="false">research-007</guid>
-      <media:content
-        url="https://papers.example.org/media?id=123"/>
+      <title>Research Paper</title>
+      <link>https://example.com/media/research-paper.pdf</link>
+      <description>PDF extension detection test.</description>
     </item>
   </channel>
 </rss>
