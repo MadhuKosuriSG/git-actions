@@ -6,31 +6,86 @@
   <channel>
     <title>Research Papers Archive</title>
     <link>https://papers.example.org/</link>
-    <description>A collection of published research papers and whitepapers</description>
+    <description>Research papers and multimedia resources</description>
     <language>en-us</language>
-    <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 09:00:00 GMT</lastBuildDate>
-    
-    <!-- ITEM 1: PDF via <enclosure> -->
+    <lastBuildDate>Thu, 22 Oct 2026 09:00:00 GMT</lastBuildDate>
+
+    <!-- Test 1: PDF through RSS enclosure -->
     <item>
-      <title>Deep Learning for Natural Language Processing: A Comprehensive Survey</title>
-      <link>https://pdfobject.com/pdf/sample.pdf</link>
-      <description>A comprehensive survey of deep learning techniques applied to NLP tasks including sentiment analysis, machine translation, and question answering.</description>
-      <category>Artificial Intelligence</category>
-      <pubDate>Thu, 10 Oct 2026 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://papers.example.org/deep-learning-nlp</guid>
-      <author>research@papers.example.org (Research Team)</author>
-      <enclosure url="https://papers.example.org/pdfs/2026-10-deep-learning-nlp.pdf" length="2847562" type="application/pdf"/>
+      <title>Deep Learning Research Paper</title>
+      <link>https://papers.example.org/deep-learning</link>
+      <description>A research paper in PDF format.</description>
+      <guid isPermaLink="false">research-001</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+      <enclosure
+        url="https://papers.example.org/files/research.pdf"
+        length="2847562"
+        type="application/pdf"/>
     </item>
-        <item>
-      <title>Green Sea</title>
-      <link>https://youtu.be/qsfQUKnyQPc?si=PwUnZHyY-qjv3Hmi</link>
-      <description>A comprehensive survey of deep learning techniques applied to NLP tasks including sentiment analysis, machine translation, and question answering.</description>
-      <category>Sea</category>
-      <pubDate>Thu, 21 Oct 2026 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://papers.example.org/deep-learning-nlp</guid>
-      <author>research@papers.example.org (Research Team)</author>
-      <enclosure url="https://papers.example.org/pdfs/2026-10-deep-learning-nlp.pdf" length="2847562" type="application/pdf"/>
+
+    <!-- Test 2: Image through Media RSS MIME type -->
+    <item>
+      <title>Research Diagram</title>
+      <link>https://papers.example.org/diagram</link>
+      <description>A diagram illustrating a research model.</description>
+      <guid isPermaLink="false">research-002</guid>
+      <media:content
+        url="https://papers.example.org/media/diagram"
+        type="image/png"
+        medium="image"/>
+    </item>
+
+    <!-- Test 3: Video through Media RSS medium -->
+    <item>
+      <title>Research Presentation</title>
+      <link>https://papers.example.org/presentation</link>
+      <description>A video presentation of research findings.</description>
+      <guid isPermaLink="false">research-003</guid>
+      <media:content
+        url="https://papers.example.org/media/presentation"
+        medium="video"/>
+    </item>
+
+    <!-- Test 4: Image inferred from URL extension -->
+    <item>
+      <title>Research Thumbnail</title>
+      <link>https://papers.example.org/thumbnail</link>
+      <description>A research thumbnail image.</description>
+      <guid isPermaLink="false">research-004</guid>
+      <media:content
+        url="https://papers.example.org/images/thumbnail.jpg"/>
+    </item>
+
+    <!-- Test 5: Video inferred from URL extension -->
+    <item>
+      <title>Research Video</title>
+      <link>https://papers.example.org/video</link>
+      <description>A video with a recognizable file extension.</description>
+      <guid isPermaLink="false">research-005</guid>
+      <media:content
+        url="https://papers.example.org/videos/research.mp4"/>
+    </item>
+
+    <!-- Test 6: Atom enclosure link extension -->
+    <item>
+      <title>Atom Enclosure Image</title>
+      <link>https://papers.example.org/atom-image</link>
+      <description>An image declared using an Atom enclosure link.</description>
+      <guid isPermaLink="false">research-006</guid>
+      <atom:link
+        rel="enclosure"
+        type="image/jpeg"
+        href="https://papers.example.org/media/atom-image"/>
+    </item>
+
+    <!-- Test 7: Unknown media type -->
+    <item>
+      <title>Unknown Media</title>
+      <link>https://papers.example.org/unknown</link>
+      <description>Media without a declared type or extension.</description>
+      <guid isPermaLink="false">research-007</guid>
+      <media:content
+        url="https://papers.example.org/media?id=123"/>
     </item>
   </channel>
 </rss>
