@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Test Atom Feed</title>
-  <link href="https://example.com"/>
-  <updated>2024-01-02T12:00:00Z</updated>
+  <title>Example News Feed</title>
+  <id>https://example.com/feed</id>
+  <updated>2026-10-23T08:00:00Z</updated>
+
   <entry>
-    <title>Atom Entry One</title>
-    <link href="https://example.com/entries/1"/>
-    <updated>2024-01-01T12:00:00Z</updated>
-    <summary>Summary of entry one</summary>
-  </entry>
-  <entry>
-    <title>Atom Entry Two</title>
-    <link href="https://example.com/entries/2"/>
-    <updated>2024-01-02T12:00:00Z</updated>
-    <summary>Summary of entry two</summary>
+    <title>My First Article</title>
+    <id>https://example.com/articles/123</id>
+    <updated>2026-10-23T08:00:00Z</updated>
+
+    <link rel="replies" type="application/atom+xml"
+          href="https://example.com/comments/123"/>
+    <link rel="edit" type="application/atom+xml"
+          href="https://example.com/edit/123"/>
+    <link rel="self" type="application/atom+xml"
+          href="https://example.com/feed/entries/123"/>
+    <link rel="alternate" type="text/html"
+          href="https://example.com/articles/my-first-article"/>
   </entry>
 </feed>
