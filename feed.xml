@@ -69,6 +69,12 @@
       <media:thumbnail
         url="https://images.pexels.com/photos/8920389/pexels-photo-8920389.jpeg" />
     </item>
-
+    <item>
+      <title>Keynote Presentation on YouTube</title>
+      <link>https://www.youtube.com/watch?v=dQw4w9WgXcQ</link>
+      <guid>yt-606</guid>
+      <description>YouTube video link</description>
+      <pubDate>Thu, 23 Oct 2026 15:00:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
