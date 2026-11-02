@@ -12,7 +12,11 @@
       <link>https://example.com/media/research-image.jpg</link>
       <description>Image extension detection test.</description>
     </item>
-
+ <item>
+      <title>Research Test</title>
+      <link>https://youtu.be/kn8o5UdDTm4</link>
+      <description>Image extension detection test.</description>
+    </item>
     <item>
       <title>Research Video</title>
       <link>https://example.com/media/research-video.mp4</link>
